@@ -2,23 +2,12 @@
   "providers": [
     {
       "file": "spellvox:custom/ui/gui/exit/ui_logo.png",
-      "ascent": 1,
+      "ascent": 16,
       "type": "bitmap",
       "chars": [
-        "怗怘",
-        "怙怚",
-        "怛怜",
-        "思怞",
-        "怟怠",
-        "怡怢",
-        "怣怤",
-        "急怦",
-        "性怨",
-        "怩怪",
-        "怫怬",
-        "怭怮"
+        "怗怘怙"
       ],
-      "height": 32
+      "height": 64
     },
     {"file":"spellvox:custom/tags/ranks/staff/ranks_staff.png","ascent":7,"type":"bitmap","chars":["","","","",""],"height":7},
     {"file":"spellvox:custom/tags/ranks/ranks_tags.png","ascent":7,"type":"bitmap","chars":["","","","","",""],"height":7},
