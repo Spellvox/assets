@@ -10,7 +10,7 @@
       "height": 64
     },
     {
-      "file": "spellvox:custom/tags/gui/chat/ui_chat_hud.png",
+      "file": "spellvox:custom/tags/chat/ui_chat_hud.png",
       "ascent": 7,
       "type": "bitmap",
       "chars": [
