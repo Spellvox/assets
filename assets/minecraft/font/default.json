@@ -20,7 +20,7 @@
     },
     {
       "file": "spellvox:custom/tags/npc/clickme_tag.png",
-      "ascent": 8,
+      "ascent": 7,
       "type": "bitmap",
       "chars": [
         ""
