@@ -11,21 +11,21 @@
     },
     {
       "file": "spellvox:custom/tags/chat/ui_chat_hud.png",
-      "ascent": 9,
+      "ascent": 8,
       "type": "bitmap",
       "chars": [
         "膯"
       ],
-      "height": 9
+      "height": 8
     },
     {
       "file": "spellvox:custom/tags/chat/ui_chat_question.png",
-      "ascent": 9,
+      "ascent": 8,
       "type": "bitmap",
       "chars": [
         ""
       ],
-      "height": 9
+      "height": 8
     },
     {
       "file": "spellvox:custom/tags/npc/clickme_tag.png",
