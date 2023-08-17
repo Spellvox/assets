@@ -19,6 +19,15 @@
       "height": 7
     },
     {
+      "file": "spellvox:custom/tags/chat/ui_overlay_fade.png",
+      "chars": [
+        ""
+      ],
+      "height": 1500,
+      "ascent": 250,
+      "type": "bitmap"
+    },
+    {
       "file": "spellvox:custom/tags/npc/clickme_tag.png",
       "ascent": 7,
       "type": "bitmap",
