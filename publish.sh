@@ -15,14 +15,14 @@ function update_js_file {
   target_section="$4"  # Specify either "dev" or "stable"
 
   if [ "$target_section" == "dev" ]; then
-    sed -i '/var packHash = ".*"/,/\}/ {
+    sed -i '' '/var packHash = ".*"/,/\}/ {
       /instanceId.contains("dev")/ {
         s#packHash = ".*"#packHash = "'$pack_hash'"#
         s#packTag = ".*"#packTag = "'$pack_tag'"#
       }
     }' "$js_file_path"
   elif [ "$target_section" == "stable" ]; then
-    sed -i '/var packHash = ".*"/,/\}/ {
+    sed -i '' '/var packHash = ".*"/,/\}/ {
       /instanceId.contains("dev")/! {
         s#var packHash = ".*"#var packHash = "'$pack_hash'"#
         s#var packTag = ".*"#var packTag = "'$pack_tag'"#
