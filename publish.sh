@@ -14,23 +14,30 @@ function update_js_file {
   pack_tag="$3"
   target_section="$4"  # Specify either "dev" or "stable"
 
+  # Create a temporary file for sed output
+  tmp_file=$(mktemp)
+
   if [ "$target_section" == "dev" ]; then
-    sed -i '' '/var packHash = ".*"/,/\}/ {
+    sed '/var packHash = ".*"/,/\}/ {
       /instanceId.contains("dev")/ {
         s#packHash = ".*"#packHash = "'$pack_hash'"#
         s#packTag = ".*"#packTag = "'$pack_tag'"#
       }
-    }' "$js_file_path"
+    }' "$js_file_path" > "$tmp_file"
   elif [ "$target_section" == "stable" ]; then
-    sed -i '' '/var packHash = ".*"/,/\}/ {
+    sed '/var packHash = ".*"/,/\}/ {
       /instanceId.contains("dev")/! {
         s#var packHash = ".*"#var packHash = "'$pack_hash'"#
         s#var packTag = ".*"#var packTag = "'$pack_tag'"#
       }
-    }' "$js_file_path"
+    }' "$js_file_path" > "$tmp_file"
   else
     echo "Invalid target section. Please specify 'dev' or 'stable'."
+    rm "$tmp_file"
+    return
   fi
+
+  mv "$tmp_file" "$js_file_path"
 }
 
 git fetch
