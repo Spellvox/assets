@@ -1,0 +1,104 @@
+{
+	"providers": [
+	  {
+	"type": "bitmap",
+	"file": "spellvox:custom/menu/header/small.png",
+	"ascent": 19,
+	"chars": [
+	  ""
+	],
+	"height": 19
+  },
+  {
+	"type": "bitmap",
+	"file": "spellvox:custom/menu/header/small_shader.png",
+	"ascent": 19,
+	"chars": [
+	  ""
+	],
+	"height": 19
+  },
+  {
+	"type": "bitmap",
+	"file": "spellvox:custom/menu/header/bar.png",
+	"ascent": 18,
+	"chars": [
+	  ""
+	],
+	"height": 18
+  },
+  {
+	"type": "bitmap",
+	"file": "spellvox:custom/menu/header/bar_shader.png",
+	"ascent": 18,
+	"chars": [
+	  ""
+	],
+	"height": 18
+  },
+  {
+	"type": "bitmap",
+	"file": "spellvox:custom/menu/body/base_1.png",
+	"ascent": 154,
+	"chars": [
+	  ""
+	],
+	"height": 180
+  },
+  {
+	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
+    "chars":["="],
+    "height":-13,
+    "ascent":-32768,
+    "type":"bitmap"
+  },
+  {
+	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
+    "chars":["+"],
+    "height":-179,
+    "ascent":-32768,
+    "type":"bitmap"
+  },
+  {
+	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
+    "chars":["#"],
+    "height":-50,
+    "ascent":-32768,
+    "type":"bitmap"
+  },
+  {
+	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
+    "chars":["-"],
+    "height":-139,
+    "ascent":-32768,
+    "type":"bitmap"
+  },
+  {
+	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
+    "chars":["_"],
+    "height":-92,
+    "ascent":-32768,
+    "type":"bitmap"
+  },
+  {
+	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
+    "chars":[")"],
+    "height":-10,
+    "ascent":-32768,
+    "type":"bitmap"
+  },
+  {
+	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
+    "chars":["%"],
+    "height":-5,
+    "ascent":-32768,
+    "type":"bitmap"
+  },
+  {
+	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
+    "chars":["!"],
+    "height":-3,
+    "ascent":-32768,
+    "type":"bitmap"
+  }
+]}
