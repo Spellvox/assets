@@ -1,149 +1,220 @@
 {
-	"providers": [
-	  {
-	"type": "bitmap",
-	"file": "spellvox:custom/menu/header/small.png",
-	"ascent": 22,
-	"chars": [
-	  ""
-	],
-	"height": 22
-  },
-  {
-	"type": "bitmap",
-	"file": "spellvox:custom/menu/header/small_shader.png",
-	"ascent": 22,
-	"chars": [
-	  ""
-	],
-	"height": 24
-  },
-  {
-	"type": "bitmap",
-	"file": "spellvox:custom/menu/header/bar.png",
-	"ascent": 18,
-	"chars": [
-	  ""
-	],
-	"height": 18
-  },
-  {
-	"type": "bitmap",
-	"file": "spellvox:custom/menu/header/bar_shader.png",
-	"ascent": 18,
-	"chars": [
-	  ""
-	],
-	"height": 18
-  },
-  {
-    "type": "bitmap",
-    "file": "spellvox:custom/menu/body/base_1.png",
-    "ascent": 154,
-    "chars": [
-      ""
-    ],
-    "height": 180
-  },
-  {
-    "type": "bitmap",
-    "file": "spellvox:custom/menu/body/base_2.png",
-    "ascent": 136,
-    "chars": [
-      ""
-    ],
-    "height": 180
-  },
-  {
-	"type": "bitmap",
-	"file": "spellvox:custom/menu/body/base_3.png",
-	"ascent": 128,
-	"chars": [
-	  ""
-	],
-	"height": 190
-  },
-  {
-    "type": "bitmap",
-    "file": "spellvox:custom/menu/body/base_4.png",
-    "ascent": 125,
-    "chars": [
-      ""
-    ],
-    "height": 205
-  },
-  {
-    "type": "bitmap",
-    "file": "spellvox:custom/menu/body/base_5.png",
-    "ascent": 122,
-    "chars": [
-      ""
-    ],
-    "height": 220
-  },
-  {
-    "type": "bitmap",
-    "file": "spellvox:custom/menu/body/base_6.png",
-    "ascent": 122,
-    "chars": [
-      ""
-    ],
-    "height": 238
-  },
-  {
-	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
-    "chars":["="],
-    "height":-13,
-    "ascent":-32768,
-    "type":"bitmap"
-  },
-  {
-	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
-    "chars":["+"],
-    "height":-179,
-    "ascent":-32768,
-    "type":"bitmap"
-  },
-  {
-	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
-    "chars":["#"],
-    "height":-50,
-    "ascent":-32768,
-    "type":"bitmap"
-  },
-  {
-	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
-    "chars":["-"],
-    "height":-139,
-    "ascent":-32768,
-    "type":"bitmap"
-  },
-  {
-	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
-    "chars":["_"],
-    "height":-92,
-    "ascent":-32768,
-    "type":"bitmap"
-  },
-  {
-	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
-    "chars":[")"],
-    "height":-10,
-    "ascent":-32768,
-    "type":"bitmap"
-  },
-  {
-	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
-    "chars":["%"],
-    "height":-5,
-    "ascent":-32768,
-    "type":"bitmap"
-  },
-  {
-	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
-    "chars":["!"],
-    "height":-3,
-    "ascent":-32768,
-    "type":"bitmap"
-  }
-]}
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/header/small.png",
+      "ascent": 22,
+      "chars": [
+        ""
+      ],
+      "height": 22
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/header/small_shader.png",
+      "ascent": 22,
+      "chars": [
+        ""
+      ],
+      "height": 24
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/header/medium.png",
+      "ascent": 22,
+      "chars": [
+        ""
+      ],
+      "height": 22
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/header/medium_shader.png",
+      "ascent": 22,
+      "chars": [
+        ""
+      ],
+      "height": 24
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/header/large.png",
+      "ascent": 22,
+      "chars": [
+        ""
+      ],
+      "height": 22
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/header/large_shader.png",
+      "ascent": 22,
+      "chars": [
+        ""
+      ],
+      "height": 24
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/header/bar.png",
+      "ascent": 18,
+      "chars": [
+        ""
+      ],
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/header/bar_shader.png",
+      "ascent": 18,
+      "chars": [
+        ""
+      ],
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_1.png",
+      "ascent": 154,
+      "chars": [
+        ""
+      ],
+      "height": 180
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_2.png",
+      "ascent": 136,
+      "chars": [
+        ""
+      ],
+      "height": 180
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_3.png",
+      "ascent": 128,
+      "chars": [
+        ""
+      ],
+      "height": 190
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_4.png",
+      "ascent": 125,
+      "chars": [
+        ""
+      ],
+      "height": 205
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_5.png",
+      "ascent": 122,
+      "chars": [
+        ""
+      ],
+      "height": 220
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_6.png",
+      "ascent": 122,
+      "chars": [
+        ""
+      ],
+      "height": 238
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ")"
+      ],
+      "height": -10,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "^"
+      ],
+      "height": -170,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "_"
+      ],
+      "height": -155,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "#"
+      ],
+      "height": -123,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "@"
+      ],
+      "height": -92,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "$"
+      ],
+      "height": -182,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "="
+      ],
+      "height": -50,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "+"
+      ],
+      "height": -179,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "%"
+      ],
+      "height": -139,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "!"
+      ],
+      "height": -5,
+      "ascent": -32768,
+      "type": "bitmap"
+    }
+  ]
+}
