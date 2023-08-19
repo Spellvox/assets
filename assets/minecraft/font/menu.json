@@ -215,6 +215,15 @@
       "height": -5,
       "ascent": -32768,
       "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "~"
+      ],
+      "height": -1,
+      "ascent": -32768,
+      "type": "bitmap"
     }
   ]
 }
