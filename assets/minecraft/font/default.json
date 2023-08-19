@@ -28,12 +28,30 @@
       "height": 7
     },
     {
+      "file": "spellvox:custom/tags/chat/ui_mouse.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 12
+    },
+    {
       "file": "spellvox:custom/tags/chat/ui_overlay_fade.png",
       "chars": [
         ""
       ],
       "height": 1500,
       "ascent": 250,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/tags/chat/ui_chat_shader.png",
+      "chars": [
+        ""
+      ],
+      "height": 36,
+      "ascent": 16,
       "type": "bitmap"
     },
     {
