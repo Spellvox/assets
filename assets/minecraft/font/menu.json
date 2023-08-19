@@ -37,13 +37,58 @@
 	"height": 18
   },
   {
+    "type": "bitmap",
+    "file": "spellvox:custom/menu/body/base_1.png",
+    "ascent": 154,
+    "chars": [
+      ""
+    ],
+    "height": 180
+  },
+  {
+    "type": "bitmap",
+    "file": "spellvox:custom/menu/body/base_2.png",
+    "ascent": 136,
+    "chars": [
+      ""
+    ],
+    "height": 180
+  },
+  {
 	"type": "bitmap",
-	"file": "spellvox:custom/menu/body/base_1.png",
-	"ascent": 154,
+	"file": "spellvox:custom/menu/body/base_3.png",
+	"ascent": 128,
 	"chars": [
-	  ""
+	  ""
 	],
-	"height": 180
+	"height": 190
+  },
+  {
+    "type": "bitmap",
+    "file": "spellvox:custom/menu/body/base_4.png",
+    "ascent": 125,
+    "chars": [
+      ""
+    ],
+    "height": 205
+  },
+  {
+    "type": "bitmap",
+    "file": "spellvox:custom/menu/body/base_5.png",
+    "ascent": 122,
+    "chars": [
+      ""
+    ],
+    "height": 220
+  },
+  {
+    "type": "bitmap",
+    "file": "spellvox:custom/menu/body/base_6.png",
+    "ascent": 122,
+    "chars": [
+      ""
+    ],
+    "height": 238
   },
   {
 	"file":"spellvox:custom/ui/spacers/pixel_nospacer.png",
