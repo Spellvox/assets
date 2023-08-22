@@ -19,6 +19,15 @@
       "height": 7
     },
     {
+      "file": "spellvox:custom/tags/chat/ui_streak.png",
+      "ascent": 7,
+      "type": "bitmap",
+      "chars": [
+        "鍑"
+      ],
+      "height": 7
+    },
+    {
       "file": "spellvox:custom/tags/chat/ui_chat_hud.png",
       "ascent": 7,
       "type": "bitmap",
