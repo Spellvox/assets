@@ -1,1 +1,1 @@
-{"providers":[{"type":"ttf","file":"spellvox:custom/fonts/stacked.ttf","shift":[0,0],"size":8,"oversample":2},{"type":"space","advances":{" ":2}}]}
+{"providers":[{"type":"ttf","file":"spellvox:custom/fonts/stacked.ttf","shift":[0,0],"size":16,"oversample":29}]}
