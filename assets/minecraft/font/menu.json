@@ -128,10 +128,10 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/menu/body/rows/row_default_9.png",
+      "file": "spellvox:custom/menu/body/rows/row_default_3_staggered.png",
       "ascent": -15,
       "chars": [
-        ""
+        ""
       ],
       "height": 64
     },
@@ -145,83 +145,20 @@
       "height": 64
     },
     {
-      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/rows/row_default_9.png",
+      "ascent": -15,
       "chars": [
-        ")"
+        ""
       ],
-      "height": -10,
-      "ascent": -32768,
-      "type": "bitmap"
+      "height": 64
     },
     {
       "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
       "chars": [
-        "^"
+        "~"
       ],
-      "height": -170,
-      "ascent": -32768,
-      "type": "bitmap"
-    },
-    {
-      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
-      "chars": [
-        "_"
-      ],
-      "height": -155,
-      "ascent": -32768,
-      "type": "bitmap"
-    },
-    {
-      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
-      "chars": [
-        "#"
-      ],
-      "height": -123,
-      "ascent": -32768,
-      "type": "bitmap"
-    },
-    {
-      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
-      "chars": [
-        "@"
-      ],
-      "height": -92,
-      "ascent": -32768,
-      "type": "bitmap"
-    },
-    {
-      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
-      "chars": [
-        "$"
-      ],
-      "height": -182,
-      "ascent": -32768,
-      "type": "bitmap"
-    },
-    {
-      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
-      "chars": [
-        "="
-      ],
-      "height": -50,
-      "ascent": -32768,
-      "type": "bitmap"
-    },
-    {
-      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
-      "chars": [
-        "+"
-      ],
-      "height": -179,
-      "ascent": -32768,
-      "type": "bitmap"
-    },
-    {
-      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
-      "chars": [
-        "%"
-      ],
-      "height": -139,
+      "height": -1,
       "ascent": -32768,
       "type": "bitmap"
     },
@@ -237,9 +174,81 @@
     {
       "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
       "chars": [
-        "~"
+        ")"
       ],
-      "height": -1,
+      "height": -10,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "="
+      ],
+      "height": -50,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "@"
+      ],
+      "height": -92,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "#"
+      ],
+      "height": -123,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "%"
+      ],
+      "height": -139,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "_"
+      ],
+      "height": -155,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "^"
+      ],
+      "height": -170,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "+"
+      ],
+      "height": -179,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        "$"
+      ],
+      "height": -182,
       "ascent": -32768,
       "type": "bitmap"
     }
