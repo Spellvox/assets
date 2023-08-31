@@ -10,6 +10,33 @@
       "height": 64
     },
     {
+      "file": "spellvox:custom/ui/gui/ui_exit_screen.png",
+      "ascent": 128,
+      "type": "bitmap",
+      "chars": [
+        "⋶"
+      ],
+      "height": 256
+    },
+    {
+      "file": "spellvox:custom/ui/gui/ui_exit_screen_disconnect.png",
+      "ascent": 7,
+      "type": "bitmap",
+      "chars": [
+        "ⶭ"
+      ],
+      "height": 7
+    },
+    {
+      "file": "spellvox:custom/ui/gui/ui_exit_screen_alt.png",
+      "ascent": 32,
+      "type": "bitmap",
+      "chars": [
+        "⋷"
+      ],
+      "height": 53
+    },
+    {
       "file": "spellvox:custom/tags/chat/ui_streak.png",
       "ascent": 7,
       "type": "bitmap",
