@@ -2,7 +2,7 @@
   "providers": [
     {
       "file": "spellvox:custom/ui/gui/ui_logo.png",
-      "ascent": 16,
+      "ascent": 24,
       "type": "bitmap",
       "chars": [
         "怗怘怙"
