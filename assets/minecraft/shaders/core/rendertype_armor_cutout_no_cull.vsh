@@ -16,7 +16,6 @@ uniform sampler2D Sampler2;
 
 uniform mat4 ModelViewMat;
 uniform mat4 ProjMat;
-uniform mat3 IViewRotMat;
 uniform int FogShape;
 
 uniform vec3 Light0_Direction;
@@ -42,7 +41,7 @@ int toint(vec3 c) {
 void main() {
     gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
 
-    vertexDistance = fog_distance(ModelViewMat, IViewRotMat * Position, FogShape);
+    vertexDistance = fog_distance(ModelViewMat, Position, FogShape);
     tintColor = Color;
     vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, vec4(1));
     lightColor = minecraft_sample_lightmap(Sampler2, UV2);
@@ -56,7 +55,7 @@ void main() {
     n = int(2*size.y/size.x);
     i = toint(Color.rgb);
     //if theres more than 1 custom armor
-    if (n > 1) {
+    if (n > 1 && size.x < 256) {
         //divide uv by number of armors, it is now on the first armor
         uv.y /= n;
         //if color index is within number of armors

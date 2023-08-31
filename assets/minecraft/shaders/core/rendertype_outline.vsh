@@ -20,7 +20,7 @@ void main() {
     //we assume if y >= 8x it is an armor and add 1 + divide uv
     //cannot pass tint color here so it's the only option
     vec2 size = textureSize(Sampler0, 0);
-    if (size.y >= 8*size.x) {
+    if (size.y >= 8*size.x && size.x < 256) {
         uv.y += 1;
         uv.y /= 2.*size.y/size.x;
     }
