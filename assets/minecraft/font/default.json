@@ -20,12 +20,12 @@
     },
     {
       "file": "spellvox:custom/ui/gui/ui_exit_screen_alt.png",
-      "ascent": 7,
+      "ascent": 8,
       "type": "bitmap",
       "chars": [
         "⋷"
       ],
-      "height": 7
+      "height": 8
     },
     {
       "file": "spellvox:custom/tags/chat/ui_streak.png",
