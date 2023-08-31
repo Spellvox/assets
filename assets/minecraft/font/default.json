@@ -16,11 +16,11 @@
       "chars": [
         "ⶭ"
       ],
-      "height": 128
+      "height": 91
     },
     {
       "file": "spellvox:custom/ui/gui/ui_exit_screen_alt.png",
-      "ascent": 8,
+      "ascent": 7,
       "type": "bitmap",
       "chars": [
         "⋷"
