@@ -3,7 +3,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/small.png",
-      "ascent": 22,
+      "ascent": 20,
       "chars": [
         ""
       ],
@@ -12,7 +12,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/small_shader.png",
-      "ascent": 22,
+      "ascent": 20,
       "chars": [
         ""
       ],
@@ -21,7 +21,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/medium.png",
-      "ascent": 22,
+      "ascent": 20,
       "chars": [
         ""
       ],
@@ -30,7 +30,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/medium_shader.png",
-      "ascent": 22,
+      "ascent": 20,
       "chars": [
         ""
       ],
@@ -39,7 +39,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/large.png",
-      "ascent": 22,
+      "ascent": 20,
       "chars": [
         ""
       ],
@@ -48,7 +48,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/large_shader.png",
-      "ascent": 22,
+      "ascent": 20,
       "chars": [
         ""
       ],
@@ -57,7 +57,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/bar.png",
-      "ascent": 18,
+      "ascent": 16,
       "chars": [
         ""
       ],
@@ -66,7 +66,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/bar_shader.png",
-      "ascent": 18,
+      "ascent": 16,
       "chars": [
         ""
       ],
