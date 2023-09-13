@@ -128,6 +128,15 @@
     },
     {
       "type": "bitmap",
+      "file": "spellvox:custom/menu/body/server_selector.png",
+      "ascent": 128,
+      "chars": [
+        ""
+      ],
+      "height": 190
+    },
+    {
+      "type": "bitmap",
       "file": "spellvox:custom/menu/body/buttons/btn_atoms.png",
       "ascent": -15,
       "chars": [
