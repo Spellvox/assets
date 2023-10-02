@@ -57,3 +57,9 @@ jobs:
         body: |
           **commit:** ${{ github.event.head_commit.message }}
           > hash: ${{ steps.hash.outputs.pack_hash }}
+
+# publish
+    - name: Publish JS (callback)
+      run: |
+        chmod +x publish.sh
+        ./publish.sh
