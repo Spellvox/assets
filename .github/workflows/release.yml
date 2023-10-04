@@ -57,3 +57,11 @@ jobs:
         body: |
           **commit:** ${{ github.event.head_commit.message }}
           > hash: ${{ steps.hash.outputs.pack_hash }}
+
+# publish
+    - name: Publish JS (callback)
+      run: |
+        eval `ssh-agent -s`
+        ssh-add - <<< '${{ secrets.PUBLISH_KEY }}'
+        chmod +x publish.sh
+        ./publish.sh
