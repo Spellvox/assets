@@ -52,7 +52,7 @@
       "chars": [
         ""
       ],
-      "height": 12
+      "height": 10
     },
     {
       "file": "spellvox:custom/ui/ui_overlay_fade.png",
@@ -80,6 +80,15 @@
         ""
       ],
       "height": 8
+    },
+    {
+      "file": "spellvox:custom/tags/npc/npc.png",
+      "ascent": 7,
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 7
     },
     {"file":"spellvox:custom/tags/ranks/staff.png","ascent":7,"type":"bitmap","chars":["","","","",""],"height":7},
     {"file":"spellvox:custom/tags/ranks/supporter.png","ascent":7,"type":"bitmap","chars":["","","","","",""],"height":7},
