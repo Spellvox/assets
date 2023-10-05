@@ -47,7 +47,7 @@
     },
     {
       "file": "spellvox:custom/tags/chat/ui_mouse.png",
-      "ascent": 7,
+      "ascent": 8,
       "type": "bitmap",
       "chars": [
         ""
