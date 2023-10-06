@@ -210,7 +210,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/rows/row_default_7_3.png",
-      "ascent": 1,
+      "ascent": 0,
       "chars": [
         ""
       ],
