@@ -147,7 +147,7 @@
         {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/buttons/btn_sell.png",
-      "ascent": -30,
+      "ascent": -33,
       "chars": [
         ""
       ],
@@ -156,7 +156,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/buttons/btn_auction.png",
-      "ascent": -45,
+      "ascent": -48,
       "chars": [
         ""
       ],
