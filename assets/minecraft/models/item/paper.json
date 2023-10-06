@@ -15,6 +15,8 @@
         {"predicate": {"custom_model_data": 9},"model": "spellvox:custom/buttons/btn_cart"},
         {"predicate": {"custom_model_data": 10},"model": "spellvox:custom/buttons/btn_category"},
         {"predicate": {"custom_model_data": 11},"model": "spellvox:custom/buttons/btn_vault"},
+        {"predicate": {"custom_model_data": 12},"model": "spellvox:custom/buttons/btn_search"},
+        {"predicate": {"custom_model_data": 13},"model": "spellvox:custom/buttons/btn_personal"},
         {"predicate": {"custom_model_data": 20},"model": "spellvox:custom/items/voucher_credit"},
         {"predicate": {"custom_model_data": 21},"model": "spellvox:custom/items/hotbar_cagey"}
     ]
