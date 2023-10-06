@@ -156,7 +156,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/buttons/btn_auction.png",
-      "ascent": -48,
+      "ascent": -51,
       "chars": [
         ""
       ],
