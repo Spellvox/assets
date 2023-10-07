@@ -359,6 +359,105 @@
       "height": -182,
       "ascent": -32768,
       "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ""
+      ],
+      "height": -1,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ""
+      ],
+      "height": -2,
+      "ascent": -32768,
+      "type": "bitmap"
     }
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ""
+      ],
+      "height": -4,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ""
+      ],
+      "height": -8,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ""
+      ],
+      "height": -16,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ""
+      ],
+      "height": -32,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ""
+      ],
+      "height": -64,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ""
+      ],
+      "height": -128,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ""
+      ],
+      "height": -256,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ""
+      ],
+      "height": -512,
+      "ascent": -32768,
+      "type": "bitmap"
+    },
+    {
+      "file": "spellvox:custom/ui/spacers/pixel_nospacer.png",
+      "chars": [
+        ""
+      ],
+      "height": -1024,
+      "ascent": -32768,
+      "type": "bitmap"
+    }    
   ]
 }
