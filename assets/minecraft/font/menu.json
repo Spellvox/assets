@@ -1,13 +1,6 @@
 {
   "providers": [
     {
-      "type": "ttf",
-      "file": "spellvox:spaces.ttf",
-      "shift": [0.0, 0.0],
-      "size": 10.0,
-      "oversample": 1.0
-    },
-    {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/small.png",
       "ascent": 20,
