@@ -14,12 +14,6 @@ jobs:
         ref: main
         fetch-depth: 0
 
-# shader workaround - prepare
-    - name: Shaders Workaround (prepare)
-      run: |
-        zip -r shaders.zip assets/minecraft/shaders
-        rm -r assets/minecraft/shaders
-
 # build -> fetch -> rename
     - name: Build
       uses: ComunidadAylas/PackSquash-action@v4
@@ -31,13 +25,6 @@ jobs:
       uses: actions/download-artifact@v3
       with:
         name: spellvox
-
-# shader workaround - finalize
-    - name: Shaders Workaround (finalize)
-      run: |
-        unzip shaders.zip -d .
-        rm shaders.zip
-        zip -ur spellvox.zip assets/minecraft/shaders
 
 # release
     - name: Hash
