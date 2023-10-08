@@ -183,7 +183,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/rows/row_cross.png",
-      "ascent": -15,
+      "ascent": 3,
       "chars": [
         ""
       ],
