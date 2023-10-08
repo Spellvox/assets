@@ -26,6 +26,8 @@
         {"predicate": {"custom_model_data": 20},"model": "spellvox:custom/buttons/btn_cooldown"},
         {"predicate": {"custom_model_data": 21},"model": "spellvox:custom/buttons/btn_chest"},
         {"predicate": {"custom_model_data": 22},"model": "spellvox:custom/buttons/btn_discord"},
+        {"predicate": {"custom_model_data": 23},"model": "spellvox:custom/buttons/btn_gang"},
+        {"predicate": {"custom_model_data": 24},"model": "spellvox:custom/buttons/btn_friends_on"},
         {"predicate": {"custom_model_data": 500},"model": "spellvox:custom/items/voucher_credit"},
         {"predicate": {"custom_model_data": 501},"model": "spellvox:custom/items/hotbar_cagey"}
     ]
