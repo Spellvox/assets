@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "spellvox:custom/menu/buttons/btn_wrench"
+        "layer0": "spellvox:custom/menu/buttons/btn_timer"
     }
 }
