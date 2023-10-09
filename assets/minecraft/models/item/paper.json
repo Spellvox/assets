@@ -12,7 +12,7 @@
         {"predicate": {"custom_model_data": 6},"model": "spellvox:custom/buttons/btn_dollar"},
         {"predicate": {"custom_model_data": 7},"model": "spellvox:custom/buttons/btn_chest_arrow"},
         {"predicate": {"custom_model_data": 8},"model": "spellvox:custom/buttons/btn_anvil"},
-        {"predicate": {"custom_model_data": 9},"model": "spellvox:custom/buttons/btn_cart"},
+        {"predicate": {"custom_model_data": 9},"model": "spellvox:custom/buttons/btn_cash"},
         {"predicate": {"custom_model_data": 10},"model": "spellvox:custom/buttons/btn_category"},
         {"predicate": {"custom_model_data": 11},"model": "spellvox:custom/buttons/btn_vault"},
         {"predicate": {"custom_model_data": 12},"model": "spellvox:custom/buttons/btn_search"},
@@ -33,7 +33,7 @@
         {"predicate": {"custom_model_data": 27},"model": "spellvox:custom/buttons/btn_message_on"},
         {"predicate": {"custom_model_data": 28},"model": "spellvox:custom/buttons/btn_message_off"},
         {"predicate": {"custom_model_data": 29},"model": "spellvox:custom/buttons/btn_cog"},
-        {"predicate": {"custom_model_data": 30},"model": "spellvox:custom/buttons/btn_ads"},
+        {"predicate": {"custom_model_data": 30},"model": "spellvox:custom/buttons/btn_globe"},
         {"predicate": {"custom_model_data": 500},"model": "spellvox:custom/items/voucher_credit"},
         {"predicate": {"custom_model_data": 501},"model": "spellvox:custom/items/hotbar_cagey"}
     ]
