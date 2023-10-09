@@ -32,6 +32,8 @@
         {"predicate": {"custom_model_data": 26},"model": "spellvox:custom/buttons/btn_pets"},
         {"predicate": {"custom_model_data": 27},"model": "spellvox:custom/buttons/btn_message_on"},
         {"predicate": {"custom_model_data": 28},"model": "spellvox:custom/buttons/btn_message_off"},
+        {"predicate": {"custom_model_data": 29},"model": "spellvox:custom/buttons/btn_cog"},
+        {"predicate": {"custom_model_data": 30},"model": "spellvox:custom/buttons/btn_ads"},
         {"predicate": {"custom_model_data": 500},"model": "spellvox:custom/items/voucher_credit"},
         {"predicate": {"custom_model_data": 501},"model": "spellvox:custom/items/hotbar_cagey"}
     ]
