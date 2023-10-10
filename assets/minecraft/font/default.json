@@ -91,6 +91,15 @@
       "height": 7
     },
     {
+      "file": "spellvox:custom/tags/npc/npc_text.png",
+      "ascent": 6,
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 6
+    },
+    {
       "file": "spellvox:custom/tags/cosmetic/tag_blue_flame.png",
       "ascent": 7,
       "type": "bitmap",
