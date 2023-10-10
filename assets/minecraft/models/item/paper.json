@@ -38,6 +38,8 @@
         {"predicate": {"custom_model_data": 32},"model": "spellvox:custom/buttons/btn_ping_all_plus"},
         {"predicate": {"custom_model_data": 33},"model": "spellvox:custom/buttons/btn_ping_minus"},
         {"predicate": {"custom_model_data": 34},"model": "spellvox:custom/buttons/btn_ping_all_minus"},
+        {"predicate": {"custom_model_data": 35},"model": "spellvox:custom/buttons/btn_fill_dark"},
+        {"predicate": {"custom_model_data": 36},"model": "spellvox:custom/buttons/btn_fill_light"},
         {"predicate": {"custom_model_data": 500},"model": "spellvox:custom/items/voucher_credit"},
         {"predicate": {"custom_model_data": 501},"model": "spellvox:custom/items/hotbar_cagey"},
         {"predicate": {"custom_model_data": 1000},"model": "spellvox:custom/tags/tag_blue_flame"}
