@@ -25,17 +25,12 @@
             "scale": [0.5, 0.5, 0.5]
         },
         "gui": {
-            "translation": [0, 7, 0],
-            "scale": [1.7, 1.7, 1.7]
+            "translation": [0, 5, 0],
+            "scale": [1.2, 1.2, 1.2]
         },
         "fixed": {
             "rotation": [0, 180, 0],
             "translation": [0, 4, 0]
         }
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data": 1},"model": "spellvox:custom/ui/player_head"},
-        {"predicate": {"custom_model_data": 2},"model": "spellvox:custom/ui/player_head_big"},
-        {"predicate": {"custom_model_data": 3},"model": "spellvox:custom/ui/player_head_normal"}
-    ]
+    }
 }
