@@ -128,6 +128,60 @@
     },
     {
       "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_1_default.png",
+      "ascent": 154,
+      "chars": [
+        ""
+      ],
+      "height": 180
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_2_default.png",
+      "ascent": 136,
+      "chars": [
+        ""
+      ],
+      "height": 180
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_3_default.png",
+      "ascent": 128,
+      "chars": [
+        ""
+      ],
+      "height": 190
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_4_default.png",
+      "ascent": 125,
+      "chars": [
+        ""
+      ],
+      "height": 205
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_5_default.png",
+      "ascent": 122,
+      "chars": [
+        ""
+      ],
+      "height": 220
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/base_6_default.png",
+      "ascent": 122,
+      "chars": [
+        ""
+      ],
+      "height": 238
+    },
+    {
+      "type": "bitmap",
       "file": "spellvox:custom/menu/body/server_selector.png",
       "ascent": 128,
       "chars": [
