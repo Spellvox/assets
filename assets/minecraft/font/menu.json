@@ -209,15 +209,6 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/menu/body/buttons/btn_auction.png",
-      "ascent": -51,
-      "chars": [
-        ""
-      ],
-      "height": 60
-    },
-    {
-      "type": "bitmap",
       "file": "spellvox:custom/menu/body/rows/row_default_3_staggered.png",
       "ascent": -15,
       "chars": [
