@@ -264,7 +264,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/buttons/btn_anvil.png",
-      "ascent": 11,
+      "ascent": 14,
       "chars": [
         ""
       ],
