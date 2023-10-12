@@ -183,7 +183,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/base_anvil.png",
-      "ascent": 125,
+      "ascent": 130,
       "chars": [
         ""
       ],
