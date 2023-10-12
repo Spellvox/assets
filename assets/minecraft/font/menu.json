@@ -61,7 +61,7 @@
       "chars": [
         ""
       ],
-      "height": 22
+      "height": 32
     },
     {
       "type": "bitmap",
@@ -70,7 +70,7 @@
       "chars": [
         ""
       ],
-      "height": 24
+      "height": 34
     },
     {
       "type": "bitmap",
@@ -97,7 +97,7 @@
       "chars": [
         ""
       ],
-      "height": 18
+      "height": 28
     },
     {
       "type": "bitmap",
@@ -106,7 +106,7 @@
       "chars": [
         ""
       ],
-      "height": 18
+      "height": 28
     },
     {
       "type": "bitmap",
