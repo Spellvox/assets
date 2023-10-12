@@ -57,7 +57,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/anvil.png",
-      "ascent": 30,
+      "ascent": 20,
       "chars": [
         ""
       ],
@@ -66,7 +66,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/anvil_shader.png",
-      "ascent": 30,
+      "ascent": 20,
       "chars": [
         ""
       ],
@@ -92,8 +92,8 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/menu/header/bar.png",
-      "ascent": 26,
+      "file": "spellvox:custom/menu/header/bar_anvil.png",
+      "ascent": 16,
       "chars": [
         ""
       ],
@@ -101,8 +101,8 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/menu/header/bar_shader.png",
-      "ascent": 26,
+      "file": "spellvox:custom/menu/header/bar_anvil_shader.png",
+      "ascent": 16,
       "chars": [
         ""
       ],
