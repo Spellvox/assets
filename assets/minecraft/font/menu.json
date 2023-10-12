@@ -93,7 +93,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/bar_anvil.png",
-      "ascent": 36,
+      "ascent": 26,
       "chars": [
         ""
       ],
@@ -102,7 +102,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/header/bar_anvil_shader.png",
-      "ascent": 36,
+      "ascent": 26,
       "chars": [
         ""
       ],
