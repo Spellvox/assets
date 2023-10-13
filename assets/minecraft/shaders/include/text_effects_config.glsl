@@ -149,3 +149,7 @@ TEXT_EFFECT(240, 240, 112) {
     apply_metalic(rgb(255, 255, 255), rgb(150, 163, 177) * 0.95);
     override_shadow_color(rgb(70, 70, 100));
 }
+
+TEXT_EFFECT(135, 153, 2) {
+    remove_renderer();
+}
