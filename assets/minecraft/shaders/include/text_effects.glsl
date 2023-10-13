@@ -511,7 +511,7 @@ bool applySpheyaPack9() {
     fragColor.rgb = mix(fragColor.rgb, textData.topColor.rgb, textData.topColor.a);
     fragColor *= lightColor * ColorModulator;
 
-    if (fragColor.a < 0.1) {
+    if (fragColor.a < 0.1 || !textData.doRender) {
         discard;
     }
 
@@ -561,10 +561,6 @@ bool applySpheyaPack9() {
             vctfx_applyTextEffect = 0.0;
             return false;
         }
-    }
-    if(!textData.doRender) {
-        gl_Position = vec4(0);
-        return false;
     }
 
     vec2 corner = vec2[](vec2(-1.0, +1.0), vec2(-1.0, -1.0), vec2(+1.0, -1.0), vec2(+1.0, +1.0))[gl_VertexID % 4];
