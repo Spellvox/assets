@@ -14,7 +14,6 @@ struct TextData {
     vec2 uvCenter;
     bool isShadow;
     bool doTextureLookup;
-    bool doRender;
     bool shouldScale;
 };
 
@@ -79,10 +78,6 @@ void override_shadow_color(vec3 color) {
 
 void remove_text_shadow() {
     if(textData.isShadow) textData.color.a = 0.0;
-}
-
-void remove_text() {
-    textData.doRender = false;
 }
 
 void apply_vertical_shadow() {
@@ -461,7 +456,6 @@ bool applySpheyaPack9() {
     textData.backColor = vec4(0.0);
     textData.topColor = vec4(0.0);
     textData.doTextureLookup = true;
-    textData.doRender = true;
     textData.color = baseColor;
     
     vec2 ip1 = vctfx_ipos1.xy / vctfx_ipos1.z;
@@ -511,7 +505,7 @@ bool applySpheyaPack9() {
     fragColor.rgb = mix(fragColor.rgb, textData.topColor.rgb, textData.topColor.a);
     fragColor *= lightColor * ColorModulator;
 
-    if (fragColor.a < 0.1 || !textData.doRender) {
+    if (fragColor.a < 0.1) {
         discard;
     }
 
