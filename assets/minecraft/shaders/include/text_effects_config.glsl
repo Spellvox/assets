@@ -151,5 +151,5 @@ TEXT_EFFECT(240, 240, 112) {
 }
 
 TEXT_EFFECT(135, 153, 2) {
-    remove_renderer();
+    override_transparency(0);
 }

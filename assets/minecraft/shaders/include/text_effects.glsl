@@ -76,12 +76,14 @@ void override_shadow_color(vec3 color) {
     override_shadow_color(vec4(color, 1.0));
 }
 
-void remove_text_shadow() {
-    if(textData.isShadow) textData.color.a = 0.0;
+void override_transparency(float alpha) {
+    textData.color.a = alpha;
+    textData.topColor.a *= alpha;
+    textData.backColor.a *= alpha;
 }
 
-void remove_renderer() {
-    textData.doTextureLookup = false;
+void remove_text_shadow() {
+    if(textData.isShadow) textData.color.a = 0.0;
 }
 
 void apply_vertical_shadow() {
