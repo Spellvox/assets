@@ -14,6 +14,7 @@ struct TextData {
     vec2 uvCenter;
     bool isShadow;
     bool doTextureLookup;
+    bool doRender;
     bool shouldScale;
 };
 
@@ -76,14 +77,12 @@ void override_shadow_color(vec3 color) {
     override_shadow_color(vec4(color, 1.0));
 }
 
-void override_transparency(float alpha) {
-    textData.color.a = alpha;
-    textData.topColor.a *= alpha;
-    textData.backColor.a *= alpha;
-}
-
 void remove_text_shadow() {
     if(textData.isShadow) textData.color.a = 0.0;
+}
+
+void remove_text() {
+    textData.doRender = false;
 }
 
 void apply_vertical_shadow() {
@@ -462,6 +461,7 @@ bool applySpheyaPack9() {
     textData.backColor = vec4(0.0);
     textData.topColor = vec4(0.0);
     textData.doTextureLookup = true;
+    textData.doRender = true;
     textData.color = baseColor;
     
     vec2 ip1 = vctfx_ipos1.xy / vctfx_ipos1.z;
@@ -561,6 +561,10 @@ bool applySpheyaPack9() {
             vctfx_applyTextEffect = 0.0;
             return false;
         }
+    }
+    if(!textData.doRender) {
+        gl_Position = vec4(0);
+        return true;
     }
 
     vec2 corner = vec2[](vec2(-1.0, +1.0), vec2(-1.0, -1.0), vec2(+1.0, -1.0), vec2(+1.0, +1.0))[gl_VertexID % 4];
