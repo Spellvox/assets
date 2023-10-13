@@ -42,6 +42,8 @@
         {"predicate": {"custom_model_data": 36},"model": "spellvox:custom/buttons/btn_fill_light"},
         {"predicate": {"custom_model_data": 37},"model": "spellvox:custom/buttons/btn_add_amount"},
         {"predicate": {"custom_model_data": 38},"model": "spellvox:custom/buttons/btn_remove_amount"},
+        {"predicate": {"custom_model_data": 39},"model": "spellvox:custom/buttons/btn_trusted"},
+        {"predicate": {"custom_model_data": 40},"model": "spellvox:custom/buttons/btn_banned"},
         {"predicate": {"custom_model_data": 500},"model": "spellvox:custom/items/voucher_credit"},
         {"predicate": {"custom_model_data": 501},"model": "spellvox:custom/items/hotbar_cagey"},
         {"predicate": {"custom_model_data": 1000},"model": "spellvox:custom/tags/tag_blue_flame"}
