@@ -46,6 +46,15 @@
       "height": 7
     },
     {
+      "file": "spellvox:custom/tags/chat/ui_chat_notify.png",
+      "ascent": 7,
+      "type": "bitmap",
+      "chars": [
+        "膰"
+      ],
+      "height": 7
+    },
+    {
       "file": "spellvox:custom/tags/chat/ui_mouse.png",
       "ascent": 8,
       "type": "bitmap",
