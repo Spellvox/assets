@@ -47,7 +47,7 @@
     },
     {
       "file": "spellvox:custom/tags/chat/ui_chat_notify.png",
-      "ascent": 6,
+      "ascent": 7,
       "type": "bitmap",
       "chars": [
         "膰"
@@ -56,7 +56,7 @@
     },
     {
       "file": "spellvox:custom/tags/chat/ui_chat_error.png",
-      "ascent": 6,
+      "ascent": 7,
       "type": "bitmap",
       "chars": [
         "膱"
