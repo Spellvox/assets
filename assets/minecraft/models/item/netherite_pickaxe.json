@@ -12,6 +12,7 @@
         {"predicate": {"custom_model_data": 6}, "model": "spellvox:custom/pickaxes/pickaxe6"},
         {"predicate": {"custom_model_data": 7}, "model": "spellvox:custom/pickaxes/pickaxe7"},
         {"predicate": {"custom_model_data": 8}, "model": "spellvox:custom/pickaxes/pickaxe8"},
-        {"predicate": {"custom_model_data": 9}, "model": "spellvox:custom/pickaxes/pickaxe9"}
+        {"predicate": {"custom_model_data": 9}, "model": "spellvox:custom/pickaxes/pickaxe9"},
+        {"predicate": {"custom_model_data": 10}, "model": "spellvox:custom/pickaxes/pickaxe10"}
     ]
 }
