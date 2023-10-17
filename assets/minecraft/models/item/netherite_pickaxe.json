@@ -5,6 +5,13 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data": 1}, "model": "spellvox:custom/pickaxes/pickaxe1"},
-        {"predicate": {"custom_model_data": 6}, "model": "spellvox:custom/pickaxes/pickaxe6"}
+        {"predicate": {"custom_model_data": 2}, "model": "spellvox:custom/pickaxes/pickaxe2"},
+        {"predicate": {"custom_model_data": 3}, "model": "spellvox:custom/pickaxes/pickaxe3"},
+        {"predicate": {"custom_model_data": 4}, "model": "spellvox:custom/pickaxes/pickaxe4"},
+        {"predicate": {"custom_model_data": 5}, "model": "spellvox:custom/pickaxes/pickaxe5"},
+        {"predicate": {"custom_model_data": 6}, "model": "spellvox:custom/pickaxes/pickaxe6"},
+        {"predicate": {"custom_model_data": 7}, "model": "spellvox:custom/pickaxes/pickaxe7"},
+        {"predicate": {"custom_model_data": 8}, "model": "spellvox:custom/pickaxes/pickaxe8"},
+        {"predicate": {"custom_model_data": 9}, "model": "spellvox:custom/pickaxes/pickaxe9"}
     ]
 }
