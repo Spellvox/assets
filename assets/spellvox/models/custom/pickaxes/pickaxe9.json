@@ -289,8 +289,8 @@
 			"translation": [0, 4.25, 0]
 		},
 		"gui": {
-			"rotation": [0, -90, 0],
-			"translation": [-1.25, -1.75, 0],
+			"rotation": [90, -130, 90],
+			"translation": [-3.25, -2, -1.25],
 			"scale": [0.7, 0.7, 0.7]
 		}
 	},

@@ -92,9 +92,9 @@
 			"translation": [0, 4.5, 0]
 		},
 		"gui": {
-			"rotation": [0, -90, 0],
-			"translation": [-1.5, -1, 0],
-			"scale": [0.8, 0.8, 0.8]
+			"rotation": [90, -130, 90],
+			"translation": [-2.25, -1.75, -1.25],
+			"scale": [0.75, 0.75, 0.75]
 		}
 	},
 	"groups": [
