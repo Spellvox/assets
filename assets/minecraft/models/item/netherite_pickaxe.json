@@ -4,6 +4,7 @@
         "layer0": "item/netherite_pickaxe"
     },
     "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "spellvox:custom/pickaxes/pickaxe1"},
         {"predicate": {"custom_model_data": 6}, "model": "spellvox:custom/pickaxes/pickaxe6"}
     ]
 }
