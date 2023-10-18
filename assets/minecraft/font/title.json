@@ -1,1 +1,1 @@
-{"providers":[{"type":"bitmap","file":"spellvox:custom/fonts/title.png","ascent":7,"chars":["ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789#,'_*&"],"height":7},{"type":"space","advances":{" ":4}}]}
+{"providers":[{"type":"bitmap","file":"spellvox:custom/fonts/title.png","ascent":16,"chars":["ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789#,'_*&"],"height":20},{"type":"space","advances":{" ":4}}]}
