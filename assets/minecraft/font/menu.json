@@ -246,7 +246,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/buttons/btn_atoms.png",
-      "ascent": 21,
+      "ascent": 22,
       "chars": [
         ""
       ],
