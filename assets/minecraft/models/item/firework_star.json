@@ -6,6 +6,7 @@
     },
     "overrides": [    
         {"predicate": {"custom_model_data": 1},"model": "spellvox:custom/items/utility_book"},
-        {"predicate": {"custom_model_data": 2},"model": "spellvox:custom/items/utility_disk"}
+        {"predicate": {"custom_model_data": 2},"model": "spellvox:custom/items/utility_disk"},
+        {"predicate": {"custom_model_data": 3},"model": "spellvox:custom/items/utility_cell"}
     ]
 }
