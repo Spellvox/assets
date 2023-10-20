@@ -407,7 +407,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/menu/body/rows/row_default_cells.png",
+      "file": "spellvox:custom/menu/body/rows/row_default_6.png",
       "ascent": 3,
       "chars": [
         ""
