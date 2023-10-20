@@ -452,24 +452,6 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/menu/body/rows/row_default_1_right_frame.png",
-      "ascent": 3,
-      "chars": [
-        ""
-      ],
-      "height": 64
-    },
-    {
-      "type": "bitmap",
-      "file": "spellvox:custom/menu/body/rows/row_default_1_right.png",
-      "ascent": 3,
-      "chars": [
-        ""
-      ],
-      "height": 64
-    },
-    {
-      "type": "bitmap",
       "file": "spellvox:custom/menu/body/rows/row_default_1_center.png",
       "ascent": -33,
       "chars": [
