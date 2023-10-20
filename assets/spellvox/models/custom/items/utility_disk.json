@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "spellvox:custom/items/utility_disk_accent",
-        "layer1": "spellvox:custom/items/utility_disk_outline"
+    	"layer0": "spellvox:custom/items/utility_disk_outline",
+        "layer1": "spellvox:custom/items/utility_disk_accent"
     }
 }
