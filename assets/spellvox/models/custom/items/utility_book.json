@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-    	"layer1": "spellvox:custom/items/utility_book_outline",
-        "layer0": "spellvox:custom/items/utility_book_accent"
+    	"layer0": "spellvox:custom/items/utility_book_outline",
+        "layer1": "spellvox:custom/items/utility_book_accent"
     }
 }
