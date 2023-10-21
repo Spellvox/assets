@@ -53,6 +53,6 @@
         {"predicate": {"custom_model_data": 47},"model": "spellvox:custom/buttons/btn_battery"},
         {"predicate": {"custom_model_data": 500},"model": "spellvox:custom/items/misc/credit_card"},
         {"predicate": {"custom_model_data": 501},"model": "spellvox:custom/items/misc/mobile_phone"},
-        {"predicate": {"custom_model_data": 1000},"model": "spellvox:custom/tags/tag_blue_flame"}
+        {"predicate": {"custom_model_data": 1000},"model": "spellvox:custom/tags/cosmetic/blue_flame"}
     ]
 }
