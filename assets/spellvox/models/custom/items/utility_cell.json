@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-    	"layer0": "spellvox:custom/items/utility_cell_outline",
-        "layer1": "spellvox:custom/items/utility_cell_accent"
-    }
-}
