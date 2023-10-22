@@ -126,6 +126,15 @@
       ],
       "height": 7
     },
+    {
+      "file": "item/experience_bottle.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        "턕"
+      ],
+      "height": 9
+    },
     {"file":"spellvox:custom/tags/ranks/staff.png","ascent":7,"type":"bitmap","chars":["","","","","",""],"height":7},
     {"file":"spellvox:custom/tags/ranks/rank_text.png","ascent":6,"type":"bitmap","chars":["","","","","","","",""],"height":6},
     {"file":"spellvox:custom/tags/ranks/supporter.png","ascent":7,"type":"bitmap","chars":["","","","","","",""],"height":7},
