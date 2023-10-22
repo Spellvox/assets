@@ -51,6 +51,8 @@
         {"predicate": {"custom_model_data": 45},"model": "spellvox:custom/buttons/btn_lock"},
         {"predicate": {"custom_model_data": 46},"model": "spellvox:custom/buttons/btn_trash"},
         {"predicate": {"custom_model_data": 47},"model": "spellvox:custom/buttons/btn_battery"},
+        {"predicate": {"custom_model_data": 48},"model": "spellvox:custom/buttons/btn_chest_confirm"},
+        {"predicate": {"custom_model_data": 49},"model": "spellvox:custom/buttons/btn_chest_deny"},
         {"predicate": {"custom_model_data": 500},"model": "spellvox:custom/items/misc/credit_card"},
         {"predicate": {"custom_model_data": 501},"model": "spellvox:custom/items/misc/mobile_phone"},
         {"predicate": {"custom_model_data": 1000},"model": "spellvox:custom/tags/cosmetic/blue_flame"}
