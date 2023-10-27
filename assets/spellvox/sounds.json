@@ -30,6 +30,12 @@
     ],
     "subtitle": "subtitles.action.crate_open"
   },
+  "custom.action.crate_spin": {
+    "sounds": [
+      "spellvox:crate_spin"
+    ],
+    "subtitle": "subtitles.action.crate_spin"
+  },
   "custom.action.double_jump": {
     "sounds": [
       "spellvox:double_jump"
