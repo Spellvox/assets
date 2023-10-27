@@ -1,0 +1,96 @@
+{
+  "custom.action.block_break": {
+    "sounds": [
+      "spellvox:block_break"
+    ],
+    "subtitle": "subtitles.action.block_break"
+  },
+  "custom.action.trident": {
+    "sounds": [
+      "spellvox:trident_1",
+      "spellvox:trident_2"
+    ],
+    "subtitle": "subtitles.action.trident"
+  },
+  "custom.action.trident_1": {
+    "sounds": [
+      "spellvox:trident_1"
+    ],
+    "subtitle": "subtitles.action.trident_1"
+  },
+  "custom.action.trident_2": {
+    "sounds": [
+      "spellvox:trident_2"
+    ],
+    "subtitle": "subtitles.action.trident_2"
+  },
+  "custom.action.crate_open": {
+    "sounds": [
+      "spellvox:crate_open"
+    ],
+    "subtitle": "subtitles.action.crate_open"
+  },
+  "custom.action.double_jump": {
+    "sounds": [
+      "spellvox:double_jump"
+    ],
+    "subtitle": "subtitles.action.double_jump"
+  },
+  "custom.action.launch_pad": {
+    "sounds": [
+      "spellvox:launch_pad"
+    ],
+    "subtitle": "subtitles.action.launch_pad"
+  },
+  "custom.feedback.menu_open": {
+    "sounds": [
+      "spellvox:menu_open"
+    ],
+    "subtitle": "subtitles.action.menu_open"
+  },
+  "custom.feedback.notify": {
+    "sounds": [
+      "spellvox:notification"
+    ],
+    "subtitle": "subtitles.action.notify"
+  },
+  "custom.feedback.sell_item": {
+    "sounds": [
+      "spellvox:sell_item"
+    ],
+    "subtitle": "subtitles.action.sell_item"
+  },
+  "custom.feedback.failure": {
+    "sounds": [
+      "spellvox:failure"
+    ],
+    "subtitle": "subtitles.action.failure"
+  },
+  "custom.feedback.success": {
+    "sounds": [
+      "spellvox:success"
+    ],
+    "subtitle": "subtitles.action.success"
+  },
+  "custom.server_support": {
+    "sounds": [
+      "spellvox:server_support"
+    ],
+    "subtitle": "subtitles.action.server_support"
+  },
+  "block.wood.hit": {
+    "sounds": [],
+    "replace": true
+  },
+  "override.block.wood.hit": {
+    "sounds": [
+      "step/wood1",
+      "step/wood2",
+      "step/wood3",
+      "step/wood4",
+      "step/wood5",
+      "step/wood6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  }
+}
