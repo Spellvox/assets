@@ -24,18 +24,6 @@
     ],
     "subtitle": "subtitles.action.trident_2"
   },
-  "custom.action.crate_open": {
-    "sounds": [
-      "spellvox:crate_open"
-    ],
-    "subtitle": "subtitles.action.crate_open"
-  },
-  "custom.action.crate_spin": {
-    "sounds": [
-      "spellvox:crate_spin"
-    ],
-    "subtitle": "subtitles.action.crate_spin"
-  },
   "custom.action.double_jump": {
     "sounds": [
       "spellvox:double_jump"
@@ -48,40 +36,64 @@
     ],
     "subtitle": "subtitles.action.launch_pad"
   },
-  "custom.feedback.menu_open": {
+  "custom.crate.open": {
+    "sounds": [
+      "spellvox:crate_open"
+    ],
+    "subtitle": "subtitles.crate.open"
+  },
+  "custom.crate.spin": {
+    "sounds": [
+      "spellvox:crate_spin"
+    ],
+    "subtitle": "subtitles.crate.spin"
+  },
+  "custom.ui.open": {
     "sounds": [
       "spellvox:menu_open"
     ],
-    "subtitle": "subtitles.action.menu_open"
+    "subtitle": "subtitles.ui.open"
+  },
+  "custom.ui.next_page": {
+    "sounds": [
+      "spellvox:menu_next_page"
+    ],
+    "subtitle": "subtitles.ui.next_page"
+  },
+  "custom.ui.prev_page": {
+    "sounds": [
+      "spellvox:menu_prev_page"
+    ],
+    "subtitle": "subtitles.ui.prev_page"
   },
   "custom.feedback.notify": {
     "sounds": [
       "spellvox:notification"
     ],
-    "subtitle": "subtitles.action.notify"
+    "subtitle": "subtitles.feedback.notify"
   },
   "custom.feedback.sell_item": {
     "sounds": [
       "spellvox:sell_item"
     ],
-    "subtitle": "subtitles.action.sell_item"
+    "subtitle": "subtitles.feedback.sell_item"
   },
   "custom.feedback.failure": {
     "sounds": [
       "spellvox:failure"
     ],
-    "subtitle": "subtitles.action.failure"
+    "subtitle": "subtitles.feedback.failure"
   },
   "custom.feedback.success": {
     "sounds": [
       "spellvox:success"
     ],
-    "subtitle": "subtitles.action.success"
+    "subtitle": "subtitles.feedback.success"
   },
   "custom.server_support": {
     "sounds": [
       "spellvox:server_support"
     ],
-    "subtitle": "subtitles.action.server_support"
+    "subtitle": "subtitles.server_support"
   }
 }
