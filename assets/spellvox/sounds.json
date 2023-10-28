@@ -86,7 +86,10 @@
   },
   "custom.feedback.success": {
     "sounds": [
-      "spellvox:success"
+      {
+      	"name": "spellvox:success",
+      	"pitch": 2
+      }
     ],
     "subtitle": "subtitles.feedback.success"
   },
