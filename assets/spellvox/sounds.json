@@ -90,6 +90,12 @@
     ],
     "subtitle": "subtitles.feedback.success"
   },
+  "custom.feedback.refresh": {
+    "sounds": [
+      "spellvox:refresh"
+    ],
+    "subtitle": "subtitles.feedback.refresh"
+  },
   "custom.server_support": {
     "sounds": [
       "spellvox:server_support"
