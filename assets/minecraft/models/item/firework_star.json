@@ -9,6 +9,7 @@
         {"predicate": {"custom_model_data": 2},"model": "spellvox:custom/items/dyeable/drive"},
         {"predicate": {"custom_model_data": 3},"model": "spellvox:custom/items/dyeable/cell"},
         {"predicate": {"custom_model_data": 4},"model": "spellvox:custom/items/dyeable/key"},
-        {"predicate": {"custom_model_data": 5},"model": "spellvox:custom/items/dyeable/pointer"}
+        {"predicate": {"custom_model_data": 5},"model": "spellvox:custom/items/dyeable/pointer"},
+        {"predicate": {"custom_model_data": 6},"model": "spellvox:custom/items/dyeable/pointer_180"}
     ]
 }
