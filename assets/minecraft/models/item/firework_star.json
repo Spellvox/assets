@@ -10,8 +10,8 @@
         {"predicate": {"custom_model_data": 3},"model": "spellvox:custom/items/dyeable/cell"},
         {"predicate": {"custom_model_data": 4},"model": "spellvox:custom/items/dyeable/key"},
         {"predicate": {"custom_model_data": 5},"model": "spellvox:custom/items/dyeable/pointer"},
-        {"predicate": {"custom_model_data": 6},"model": "spellvox:custom/items/dyeable/pointer_270"},
+        {"predicate": {"custom_model_data": 6},"model": "spellvox:custom/items/dyeable/pointer_90"},
         {"predicate": {"custom_model_data": 7},"model": "spellvox:custom/items/dyeable/pointer_180"},
-        {"predicate": {"custom_model_data": 8},"model": "spellvox:custom/items/dyeable/pointer_90"}
+        {"predicate": {"custom_model_data": 8},"model": "spellvox:custom/items/dyeable/pointer_270"}
     ]
 }
