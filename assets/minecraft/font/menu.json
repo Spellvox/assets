@@ -318,7 +318,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/row/slots/3x3_crosshair.png",
-      "ascent": 3,
+      "ascent": -15,
       "chars": [
         ""
       ],
