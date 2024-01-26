@@ -60,6 +60,7 @@
         {"predicate": {"custom_model_data": 500},"model": "spellvox:custom/items/misc/credit_card"},
         {"predicate": {"custom_model_data": 501},"model": "spellvox:custom/items/misc/mobile_phone"},
         {"predicate": {"custom_model_data": 502},"model": "spellvox:custom/items/mechbox/dice"},
+        {"predicate": {"custom_model_data": 503},"model": "spellvox:custom/items/mechbox/dice_banish"},
         {"predicate": {"custom_model_data": 1000},"model": "spellvox:custom/tags/cosmetic/blue_flame"}
     ]
 }
