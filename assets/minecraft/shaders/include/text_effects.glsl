@@ -212,6 +212,16 @@ void apply_rainbow() {
     if(textData.isShadow) textData.color.rgb *= 0.25;
 }
 
+void apply_colorswap(float speed, float hue, float brightness) {
+    textData.shouldScale = true;
+    textData.color.rgb = hsvToRgb(vec3(mod(GameTime * speed, 360.0), hue, brightness));
+    if(textData.isShadow) textData.color.rgb *= 0.25;
+}
+
+void apply_colorswap() {
+	apply_colorswap(128.0, 0.7, 1.0);
+}
+
 void apply_shimmer(float speed, float intensity) {
     if(textData.isShadow) return;
     float f = textData.localPosition.x + textData.localPosition.y - GameTime * 6400.0 * speed;
