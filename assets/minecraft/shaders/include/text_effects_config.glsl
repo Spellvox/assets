@@ -149,3 +149,11 @@ TEXT_EFFECT(240, 240, 112) {
     apply_metalic(rgb(255, 255, 255), rgb(150, 163, 177) * 0.95);
     override_shadow_color(rgb(70, 70, 100));
 }
+
+TEXT_EFFECT(240, 240, 116) {
+    apply_colorswap();
+}
+
+TEXT_EFFECT(240, 240, 120) {
+    apply_colorswap(128.0, 0.825, 0.825);
+}
