@@ -245,6 +245,15 @@
     },
     {
       "type": "bitmap",
+      "file": "spellvox:custom/menu/body/custom/atoms_home.png",
+      "ascent": 3,
+      "chars": [
+        ""
+      ],
+      "height": 64
+    },
+    {
+      "type": "bitmap",
       "file": "spellvox:custom/menu/body/buttons/btn_atoms.png",
       "ascent": 22,
       "chars": [
