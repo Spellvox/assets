@@ -246,7 +246,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/custom/atoms_home.png",
-      "ascent": 3,
+      "ascent": 15,
       "chars": [
         ""
       ],
