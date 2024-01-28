@@ -516,7 +516,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/row/frames/1x3.png",
-      "ascent": 5,
+      "ascent": 3,
       "chars": [
         ""
       ],
