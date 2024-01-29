@@ -521,6 +521,15 @@
         ""
       ],
       "height": 72
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/custom/category_frame.png",
+      "ascent": 3,
+      "chars": [
+        ""
+      ],
+      "height": 31
     }
   ]
 }
