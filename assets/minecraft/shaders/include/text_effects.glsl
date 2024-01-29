@@ -219,7 +219,7 @@ void apply_colorswap(float speed, float hue, float brightness) {
 }
 
 void apply_colorswap() {
-	apply_colorswap(128.0, 0.7, 1.0);
+	apply_colorswap(136.0, 0.7, 1.0);
 }
 
 void apply_shimmer(float speed, float intensity) {

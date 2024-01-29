@@ -155,5 +155,9 @@ TEXT_EFFECT(240, 240, 116) {
 }
 
 TEXT_EFFECT(240, 240, 120) {
-    apply_colorswap(128.0, 0.825, 0.825);
+    apply_colorswap(136.0, 0.825, 0.7);
+}
+
+TEXT_EFFECT(240, 240, 124) {
+    apply_colorswap(136.0, 0.325, 0.925);
 }
