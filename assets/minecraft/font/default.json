@@ -73,6 +73,15 @@
       "height": 9
     },
     {
+      "file": "spellvox:custom/tags/chat/ui_gg.png",
+      "ascent": 9,
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 10
+    },
+    {
       "file": "spellvox:custom/ui/ui_overlay_fade.png",
       "chars": [
         ""
