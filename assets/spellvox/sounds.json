@@ -101,5 +101,11 @@
       "spellvox:server_support"
     ],
     "subtitle": "subtitles.server_support"
+  },
+  "custom.server_support2": {
+    "sounds": [
+      "spellvox:server_support_2"
+    ],
+    "subtitle": "subtitles.server_support_2"
   }
 }
