@@ -102,7 +102,7 @@
     ],
     "subtitle": "subtitles.server_support"
   },
-  "custom.server_support2": {
+  "custom.server_support_2": {
     "sounds": [
       "spellvox:server_support_2"
     ],
