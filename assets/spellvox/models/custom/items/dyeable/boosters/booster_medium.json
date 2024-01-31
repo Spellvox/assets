@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-    	"layer0": "spellvox:custom/items/dyeable/booster_medium_outline",
-        "layer1": "spellvox:custom/items/dyeable/booster_medium_accent"
+    	"layer0": "spellvox:custom/items/dyeable/boosters/booster_medium_outline",
+        "layer1": "spellvox:custom/items/dyeable/boosters/booster_medium_accent"
     }
 }
