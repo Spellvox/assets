@@ -15,6 +15,9 @@
         {"predicate": {"custom_model_data": 8},"model": "spellvox:custom/items/dyeable/pointer_270"},
         {"predicate": {"custom_model_data": 9},"model": "spellvox:custom/items/dyeable/mechbox"},
         {"predicate": {"custom_model_data": 10},"model": "spellvox:custom/items/dyeable/shard"},
-        {"predicate": {"custom_model_data": 11},"model": "spellvox:custom/items/dyeable/atom"}
+        {"predicate": {"custom_model_data": 11},"model": "spellvox:custom/items/dyeable/atom"},
+        {"predicate": {"custom_model_data": 12},"model": "spellvox:custom/items/dyeable/boosters/booster_small"},
+        {"predicate": {"custom_model_data": 13},"model": "spellvox:custom/items/dyeable/boosters/booster_medium"},
+        {"predicate": {"custom_model_data": 14},"model": "spellvox:custom/items/dyeable/boosters/booster_large"}
     ]
 }
