@@ -533,6 +533,15 @@
     },
     {
       "type": "bitmap",
+      "file": "spellvox:custom/menu/body/custom/crate_wheel.png",
+      "ascent": 3,
+      "chars": [
+        ""
+      ],
+      "height": 128
+    },
+    {
+      "type": "bitmap",
       "file": "spellvox:custom/menu/body/custom/category_frame.png",
       "ascent": 3,
       "chars": [
