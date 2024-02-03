@@ -36,6 +36,12 @@
     ],
     "subtitle": "subtitles.action.launch_pad"
   },
+  "custom.action.booster_apply": {
+    "sounds": [
+      "spellvox:booster_apply"
+    ],
+    "subtitle": "subtitles.action.booster_apply"
+  },
   "custom.crate.open": {
     "sounds": [
       "spellvox:crate_open"
