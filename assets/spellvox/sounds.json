@@ -102,6 +102,12 @@
     ],
     "subtitle": "subtitles.feedback.refresh"
   },
+  "custom.feedback.expired": {
+    "sounds": [
+      "spellvox:expired"
+    ],
+    "subtitle": "subtitles.feedback.expired"
+  },
   "custom.server_support": {
     "sounds": [
       "spellvox:server_support"
