@@ -493,7 +493,7 @@ bool applySpheyaPack9() {
         textData.uv = texCoord0;
     }
     textData.position = vctfx_screenPos.xy * uvSize * 256.0 / innerSize;
-    textData.texturePosition = vctfx_screenPos
+    textData.texturePosition = vctfx_screenPos;
     textData.characterPosition = 0.5 * (innerMin + innerMax) * uvSize * 256.0 / innerSize;
     if(textData.isShadow) { 
         textData.characterPosition += vec2(-1.0, 1.0);
