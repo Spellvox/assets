@@ -480,7 +480,7 @@ bool applySpheyaPack9() {
     vec2 uvp4 = vctfx_uvpos4.xy / vctfx_uvpos4.z;
     vec2 uvMin = min(uvp1.xy,min(uvp2.xy,min(uvp3.xy, uvp4.xy)));
     vec2 uvMax = max(uvp1.xy,max(uvp2.xy,max(uvp3.xy, uvp4.xy)));
-    vec2 uvSize = uvMax - uvMin;
+    vec2 uvSize = uvMin - uvMax;
     textData.uvMin = uvMin;
     textData.uvMax = uvMax;
     textData.uvCenter = uvMin + 0.25 * uvSize;
@@ -490,7 +490,7 @@ bool applySpheyaPack9() {
     if(vctfx_changedScale < 0.5) {
         textData.uv = texCoord0;
     }
-    textData.position = (vctfx_screenPos.xy - innerMin) * 256.0 / innerSize;
+    textData.position = vctfx_screenPos.xy * uvSize * 256.0 / innerSize;
     textData.characterPosition = 0.5 * (innerMin + innerMax) * uvSize * 256.0 / innerSize;
     if(textData.isShadow) { 
         textData.characterPosition += vec2(-1.0, 1.0);
