@@ -207,8 +207,7 @@ void apply_gradient(vec3 color1, vec3 color2) {
 }
 
 void apply_rainbow() {
-    // textData.shouldScale = true;
-    textData.color.rgb = hsvToRgb(vec3(0.005 * (textData.position.x) - GameTime * 300.0, 0.7, 1.0));
+    textData.color.rgb = hsvToRgb(vec3(0.005 * (textData.position.x + textData.position.y) - GameTime * 300.0, 0.7, 1.0));
     if(textData.isShadow) textData.color.rgb *= 0.25;
 }
 
@@ -491,7 +490,7 @@ bool applySpheyaPack9() {
     if(vctfx_changedScale < 0.5) {
         textData.uv = texCoord0;
     }
-    textData.position = vctfx_screenPos.xy * uvSize * 256.0 / innerSize;
+    textData.position = floor(vctfx_screenPos.xy * uvSize * 256.0 / innerSize);
     textData.characterPosition = 0.5 * (innerMin + innerMax) * uvSize * 256.0 / innerSize;
     if(textData.isShadow) { 
         textData.characterPosition += vec2(-1.0, 1.0);
