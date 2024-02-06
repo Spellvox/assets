@@ -458,7 +458,7 @@ in vec3 vctfx_uvpos3;
 in vec3 vctfx_uvpos4;
 
 bool applySpheyaPack9() {
-    //if(vctfx_applyTextEffect < 0.5) return false;
+    if(vctfx_applyTextEffect < 0.75) return false;
 
     textData.isShadow = vctfx_isShadow > 0.5;
     textData.backColor = vec4(0.0);
