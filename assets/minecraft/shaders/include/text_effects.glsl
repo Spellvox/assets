@@ -424,12 +424,12 @@ void apply_non_binary_pride() {
     if(textData.isShadow) textData.color.rgb *= 0.25;
 }
 
-#define TEXT_EFFECT(r, g, b) return true; case ((uint(r)/4u) << 16) | ((uint(g)/4u) << 8) | ((uint(b)/4u)):
+#define TEXT_EFFECT(r, g, b) return true; case ((uint(r/4) << 16) | (uint(g/4) << 8) | (uint(b/4))):
 
 bool applyTextEffects() { 
     uint vertexColorId = colorId(floor(round(textData.color.rgb * 255.0) / 4.0) / 255.0); 
     if(textData.isShadow) { vertexColorId = colorId(textData.color.rgb);} 
-    switch(vertexColorId) { 
+    switch(vertexColorId >> 8) { 
         case 0xFFFFFFFFu:
 
     #moj_import<text_effects_config.glsl>
@@ -458,7 +458,7 @@ in vec3 vctfx_uvpos3;
 in vec3 vctfx_uvpos4;
 
 bool applySpheyaPack9() {
-    if(vctfx_applyTextEffect < 0.5) return false;
+    //if(vctfx_applyTextEffect < 0.5) return false;
 
     textData.isShadow = vctfx_isShadow > 0.5;
     textData.backColor = vec4(0.0);
