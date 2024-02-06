@@ -8,6 +8,17 @@ vec4 linear_fog(vec4 inColor, float vertexDistance, float fogStart, float fogEnd
     return vec4(mix(inColor.rgb, fogColor.rgb, fogValue * fogColor.a), inColor.a);
 }
 
+vec4 linear_fog_text(vec4 inColor, float vertexDistance, float fogStart, float fogEnd, vec4 fogColor) {
+    if (vertexDistance <= fogStart)
+        return inColor;
+
+    if(fogColor.r < 0.1 && fogColor.g > fogColor.r && fogColor.b > fogColor.g && fogColor.b > 0.2) {
+        return mix(mix(vec4(0.1, 0.2, 0.4, 1.0), fogColor, min(exp(-vertexDistance * 0.015), 1.0)), inColor, exp(-(vertexDistance + 30.0) * 0.012));
+    }else{
+        return inColor;
+    }
+}
+
 float linear_fog_fade(float vertexDistance, float fogStart, float fogEnd) {
     if (vertexDistance <= fogStart) {
         return 1.0;
