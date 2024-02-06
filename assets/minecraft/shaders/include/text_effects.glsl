@@ -207,7 +207,7 @@ void apply_gradient(vec3 color1, vec3 color2) {
 }
 
 void apply_rainbow() {
-    textData.color.rgb = hsvToRgb(vec3(textData.position.x + textData.position.y, 0.7, 1.0));
+    textData.color.rgb = hsvToRgb(vec3(0.005 * (textData.position.x + textData.position.y) - GameTime * 300.0, 0.7, 1.0));
     if(textData.isShadow) textData.color.rgb *= 0.25;
 }
 
@@ -424,12 +424,12 @@ void apply_non_binary_pride() {
     if(textData.isShadow) textData.color.rgb *= 0.25;
 }
 
-#define TEXT_EFFECT(r, g, b) return true; case ((uint(r/4) << 16) | (uint(g/4) << 8) | (uint(b/4))):
+#define TEXT_EFFECT(r, g, b) return true; case ((uint(r)/4u) << 16) | ((uint(g)/4u) << 8) | ((uint(b)/4u)):
 
 bool applyTextEffects() { 
     uint vertexColorId = colorId(floor(round(textData.color.rgb * 255.0) / 4.0) / 255.0); 
     if(textData.isShadow) { vertexColorId = colorId(textData.color.rgb);} 
-    switch(vertexColorId >> 8) { 
+    switch(vertexColorId) { 
         case 0xFFFFFFFFu:
 
     #moj_import<text_effects_config.glsl>
