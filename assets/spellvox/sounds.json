@@ -42,6 +42,12 @@
     ],
     "subtitle": "subtitles.action.booster_apply"
   },
+  "custom.action.booster_global": {
+    "sounds": [
+      "spellvox:booster_global"
+    ],
+    "subtitle": "subtitles.action.booster_global"
+  },
   "custom.crate.open": {
     "sounds": [
       "spellvox:crate_open"
