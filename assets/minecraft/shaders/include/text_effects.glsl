@@ -209,7 +209,7 @@ void apply_gradient(vec3 color1, vec3 color2) {
 void apply_rainbow() {
     // textData.shouldScale = true;
     float f = 0.005 * (floor((textData.position.x + textData.position.y) * 100) / 100);
-    textData.color.rgb = hsvToRgb(vec3(mod(f) - GameTime * 300.0, 0.7, 1.0));
+    textData.color.rgb = hsvToRgb(vec3(f - GameTime * 300.0, 0.7, 1.0));
     if(textData.isShadow) textData.color.rgb *= 0.25;
 }
 
