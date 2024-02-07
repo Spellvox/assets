@@ -5,7 +5,7 @@
 #define SPHEYA_PACK_8
 
 bool applySpheyaPack8() {
-    if(Position.z != 0.0 || colorId(baseColor.rgb) != COLOR_ID_RGB(255, 85, 85) || gl_Position.x < 0.9 || gl_VertexID < 4) return false;
+    if (Position.z != 0.0 || colorId(baseColor.rgb) != COLOR_ID_RGB(255, 85, 85) || gl_Position.x < 0.8 || gl_VertexID > 8) return false;
     gl_Position = vec4(0);
     return true;
 }
