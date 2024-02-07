@@ -57,6 +57,7 @@
         {"predicate": {"custom_model_data": 51},"model": "spellvox:custom/buttons/btn_warn"},
         {"predicate": {"custom_model_data": 52},"model": "spellvox:custom/buttons/btn_mute"},
         {"predicate": {"custom_model_data": 53},"model": "spellvox:custom/buttons/btn_kick"},
+        {"predicate": {"custom_model_data": 54},"model": "spellvox:custom/buttons/btn_active"},
         {"predicate": {"custom_model_data": 500},"model": "spellvox:custom/items/misc/credit_card"},
         {"predicate": {"custom_model_data": 501},"model": "spellvox:custom/items/misc/mobile_phone"},
         {"predicate": {"custom_model_data": 502},"model": "spellvox:custom/items/mechbox/dice"},
