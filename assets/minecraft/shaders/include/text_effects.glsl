@@ -89,7 +89,7 @@ void apply_vertical_shadow() {
 
 void apply_waving_movement(float speed, float frequency) {
     textData.uv.y += sin(textData.characterPosition.x * 0.1 * frequency - GameTime * 7500.0 * speed) / 256.0;
-    textData.shouldScale = false;
+    textData.shouldScale = true;
 }
 
 void apply_waving_movement(float speed) {
