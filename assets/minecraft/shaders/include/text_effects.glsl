@@ -471,7 +471,7 @@ bool applySpheyaPack9() {
     vec2 ip3 = vctfx_ipos3.xy / vctfx_ipos3.z;
     vec2 ip4 = vctfx_ipos4.xy / vctfx_ipos4.z;
     vec2 innerMin = min(ip1.xy,min(ip2.xy,min(ip3.xy,ip4.xy)));
-    vec2 innerMax = max(ip1.xy,max(ip2.xy,max(ip3.xy,ip4.xy)));
+    vec2 innerMax = max(ip1.xy,max(ip2.xy,min(ip3.xy,ip4.xy)));
     vec2 innerSize = innerMax - innerMin;
     
     vec2 uvp1 = vctfx_uvpos1.xy / vctfx_uvpos1.z;
