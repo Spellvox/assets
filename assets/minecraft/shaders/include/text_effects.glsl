@@ -479,7 +479,7 @@ bool applySpheyaPack9() {
     vec2 uvp3 = vctfx_uvpos3.xy / vctfx_uvpos3.z;
     vec2 uvp4 = vctfx_uvpos4.xy / vctfx_uvpos4.z;
     vec2 uvMin = min(uvp1.xy,min(uvp2.xy,min(uvp3.xy, uvp4.xy)));
-    vec2 uvMax = max(uvp1.xy,max(uvp2.xy,max(uvp3.xy, uvp4.xy)));
+    vec2 uvMax = max(uvp1.xy,max(uvp2.xy,min(uvp3.xy, uvp4.xy)));
     vec2 uvSize = uvMax - uvMin;
     textData.uvMin = uvMin;
     textData.uvMax = uvMax;
