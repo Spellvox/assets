@@ -64,6 +64,8 @@
         {"predicate": {"custom_model_data": 503},"model": "spellvox:custom/items/mechbox/dice_banish"},
         {"predicate": {"custom_model_data": 504},"model": "spellvox:custom/items/misc/money_bag"},
         {"predicate": {"custom_model_data": 1000},"model": "spellvox:custom/tags/cosmetic/blue_flame"},
-        {"predicate": {"custom_model_data": 1500},"model": "spellvox:custom/crates/crate_green"}
+        {"predicate": {"custom_model_data": 1500},"model": "spellvox:custom/crates/crate_green"},
+        {"predicate": {"custom_model_data": 1501},"model": "spellvox:custom/crates/crate_red"},
+        {"predicate": {"custom_model_data": 1502},"model": "spellvox:custom/crates/crate_cyan"}
     ]
 }
