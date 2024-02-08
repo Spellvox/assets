@@ -60,6 +60,36 @@
     ],
     "subtitle": "subtitles.crate.spin"
   },
+  "custom.crate.complete": {
+    "sounds": [
+      "spellvox:crate_complete"
+    ],
+    "subtitle": "subtitles.crate.complete"
+  },
+  "custom.crate.levelup": {
+    "sounds": [
+      "spellvox:crate_levelup"
+    ],
+    "subtitle": "subtitles.crate.levelup"
+  },
+  "custom.crate.multi_land": {
+    "sounds": [
+      "spellvox:crate_multi_land"
+    ],
+    "subtitle": "subtitles.crate.multi.land"
+  },
+  "custom.crate.symbol_hit": {
+    "sounds": [
+      "spellvox:crate_symbol_hit"
+    ],
+    "subtitle": "subtitles.crate.symbol.hit"
+  },
+  "custom.crate.symbol_land": {
+    "sounds": [
+      "spellvox:crate_symbol_land"
+    ],
+    "subtitle": "subtitles.crate.symbol.land"
+  },
   "custom.ui.open": {
     "sounds": [
       "spellvox:menu_open"
