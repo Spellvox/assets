@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "spellvox:custom/items/dyeable/crates/delete_accent",
+        "layer1": "spellvox:custom/items/dyeable/crates/delete_accent"
+    }
+}
