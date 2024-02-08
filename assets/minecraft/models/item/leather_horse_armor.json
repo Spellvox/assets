@@ -4,6 +4,6 @@
         "layer0": "item/leather_horse_armor"
     },
     "overrides": [    
-        {"predicate": {"custom_model_data": 1},"model": "spellvox:custom/items/dyeable/fill"}
+        {"predicate": {"custom_model_data": 1},"model": "spellvox:custom/buttons/btn_plus"}
     ]
 }
