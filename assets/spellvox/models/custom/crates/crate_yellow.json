@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"8": "spellvox:custom/crates/crate_cyan"
+		"8": "spellvox:custom/crates/crate_yellow"
 	},
 	"elements": [
 		{
