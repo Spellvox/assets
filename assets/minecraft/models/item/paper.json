@@ -67,6 +67,7 @@
         {"predicate": {"custom_model_data": 506},"model": "spellvox:custom/items/crates/jello"},
         {"predicate": {"custom_model_data": 507},"model": "spellvox:custom/items/crates/candy"},
         {"predicate": {"custom_model_data": 508},"model": "spellvox:custom/items/crates/lolipop"},
+        {"predicate": {"custom_model_data": 509},"model": "spellvox:custom/items/crates/powerup"},
         {"predicate": {"custom_model_data": 1000},"model": "spellvox:custom/tags/cosmetic/blue_flame"},
         {"predicate": {"custom_model_data": 1500},"model": "spellvox:custom/crates/crate_green"},
         {"predicate": {"custom_model_data": 1501},"model": "spellvox:custom/crates/crate_red"},
