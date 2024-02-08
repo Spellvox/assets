@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [1, 1],
 	"textures": {
-		"0": "spellvox:custom/menu/buttons/btn_fill_light",
-		"particle": "spellvox:custom/menu/buttons/btn_fill_light"
+		"0": "spellvox:custom/items/dyeable/fill",
+		"particle": "spellvox:custom/items/dyeable/fill"
 	},
 	"elements": [
 		{
