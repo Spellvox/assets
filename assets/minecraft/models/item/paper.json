@@ -66,6 +66,7 @@
         {"predicate": {"custom_model_data": 1000},"model": "spellvox:custom/tags/cosmetic/blue_flame"},
         {"predicate": {"custom_model_data": 1500},"model": "spellvox:custom/crates/crate_green"},
         {"predicate": {"custom_model_data": 1501},"model": "spellvox:custom/crates/crate_red"},
-        {"predicate": {"custom_model_data": 1502},"model": "spellvox:custom/crates/crate_yellow"}
+        {"predicate": {"custom_model_data": 1502},"model": "spellvox:custom/crates/crate_yellow"},
+        {"predicate": {"custom_model_data": 1503},"model": "spellvox:custom/crates/crate_pink"}
     ]
 }
