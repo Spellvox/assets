@@ -136,15 +136,6 @@
       "height": 7
     },
     {
-      "file": "spellvox:custom/tags/chat/ui_scrap.png",
-      "ascent": 7,
-      "type": "bitmap",
-      "chars": [
-        "💢"
-      ],
-      "height": 7
-    },
-    {
       "file": "item/experience_bottle.png",
       "ascent": 8,
       "type": "bitmap",
