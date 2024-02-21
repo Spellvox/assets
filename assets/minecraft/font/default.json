@@ -65,12 +65,12 @@
     },
     {
       "file": "spellvox:custom/tags/chat/ui_chat_arrow.png",
-      "ascent": 3,
+      "ascent": 5,
       "type": "bitmap",
       "chars": [
         "►"
       ],
-      "height": 3
+      "height": 5
     },
     {
       "file": "spellvox:custom/tags/chat/ui_mouse.png",
