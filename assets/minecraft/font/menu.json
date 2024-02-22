@@ -264,7 +264,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/buttons/btn_atoms.png",
-      "ascent": 21,
+      "ascent": 39,
       "chars": [
         ""
       ],
@@ -438,6 +438,15 @@
       "ascent": -69,
       "chars": [
         ""
+      ],
+      "height": 64
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/row/slots/5x1.png",
+      "ascent": -69,
+      "chars": [
+        ""
       ],
       "height": 64
     },
