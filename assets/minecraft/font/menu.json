@@ -263,15 +263,6 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/menu/body/buttons/btn_atoms.png",
-      "ascent": 39,
-      "chars": [
-        ""
-      ],
-      "height": 97
-    },
-    {
-      "type": "bitmap",
       "file": "spellvox:custom/menu/body/buttons/btn_sell.png",
       "ascent": -15,
       "chars": [
