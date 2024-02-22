@@ -398,6 +398,33 @@
     },
     {
       "type": "bitmap",
+      "file": "spellvox:custom/menu/body/row/slots/7x1.png",
+      "ascent": -33,
+      "chars": [
+        ""
+      ],
+      "height": 64
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/row/slots/7x1.png",
+      "ascent": -51,
+      "chars": [
+        ""
+      ],
+      "height": 64
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/row/slots/3x1.png",
+      "ascent": -69,
+      "chars": [
+        ""
+      ],
+      "height": 64
+    },
+    {
+      "type": "bitmap",
       "file": "spellvox:custom/menu/body/row/slots/7x3.png",
       "ascent": 3,
       "chars": [
