@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+    	"layer0": "spellvox:custom/items/dyeable/skins/skin_pickaxe_outline",
+        "layer1": "spellvox:custom/items/dyeable/skins/skin_pickaxe_accent"
+    }
+}
