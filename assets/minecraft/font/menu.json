@@ -263,10 +263,19 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/menu/body/buttons/btn_sale.png",
+      "file": "spellvox:custom/menu/body/buttons/btn_sale_outline.png",
       "ascent": 3,
       "chars": [
         ""
+      ],
+      "height": 97
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/buttons/btn_sale_accent.png",
+      "ascent": 3,
+      "chars": [
+        ""
       ],
       "height": 97
     },
