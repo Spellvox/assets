@@ -263,6 +263,15 @@
     },
     {
       "type": "bitmap",
+      "file": "spellvox:custom/items/ranks/techno.png",
+      "ascent": -15,
+      "chars": [
+        ""
+      ],
+      "height": 16
+    },
+    {
+      "type": "bitmap",
       "file": "spellvox:custom/menu/body/buttons/btn_sale_outline.png",
       "ascent": 3,
       "chars": [
