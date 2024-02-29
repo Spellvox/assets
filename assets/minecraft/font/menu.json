@@ -263,7 +263,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/items/ranks/techno.png",
+      "file": "spellvox:custom/menu/body/buttons/btn_techno.png",
       "ascent": -15,
       "chars": [
         ""
