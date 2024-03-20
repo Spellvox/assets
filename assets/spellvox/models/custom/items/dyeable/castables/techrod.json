@@ -8,12 +8,12 @@
 	"gui_light": "front",
 	"display": {
 		"firstperson_righthand": {
-			"rotation": [0, 90, 0],
-			"translation": [7, 1.5, -7]
+			"rotation": [0, 90, -45],
+			"translation": [7, 0, -7.5]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, -90, 0],
-			"translation": [7, 1.5, -7]
+			"rotation": [-45, -90, 0],
+			"translation": [7, 0, -7.5]
 		},
 		"ground": {
 			"translation": [0, 4, 0]
