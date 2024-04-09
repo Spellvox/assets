@@ -129,24 +129,6 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/background/center_512.png",
-      "ascent": 8,
-      "chars": [
-        ""
-      ],
-      "height": 14
-    },
-    {
-      "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/background/center_1024.png",
-      "ascent": 8,
-      "chars": [
-        ""
-      ],
-      "height": 14
-    },
-    {
-      "type": "bitmap",
       "file": "spellvox:custom/ui/boss_bar/events/slime.png",
       "ascent": 6,
       "chars": [
