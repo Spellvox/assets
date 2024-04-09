@@ -169,16 +169,16 @@ TEXT_EFFECT(240, 240, 128) {
 }
 
 TEXT_EFFECT(240, 240, 132) {
-    override_text_color(rgb(255, 255, 255));
+    override_text_intensity(1.0);
     remove_text_shadow();
 }
 
 TEXT_EFFECT(240, 240, 136) {
-    override_text_color(rgb(155, 155, 155));
+    override_text_intensity(0.5);
     remove_text_shadow();
 }
 
 TEXT_EFFECT(240, 240, 140) {
-    override_text_color(rgb(50, 50, 50));
+	override_text_intensity(0.25);
     remove_text_shadow();
 }
