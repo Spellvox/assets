@@ -167,3 +167,8 @@ TEXT_EFFECT(240, 240, 128) {
     override_shadow_color(rgb(3, 153, 76));
     apply_fade(rgb(66, 203, 245));
 }
+
+TEXT_EFFECT(240, 240, 132) {
+    override_text_color(rgb(255, 255, 255));
+    remove_text_shadow();
+}
