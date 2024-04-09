@@ -1,8 +1,9 @@
 {
   "providers": [
+    {"type":"space","advances":{" ":4,"‌":0}},{"type":"bitmap","file":"minecraft:font/ascii.png","ascent":3,"height":8,"chars":["\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000","\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"," !\"#$%&'()*+,-./","0123456789:;<=>?","@ABCDEFGHIJKLMNO","PQRSTUVWXYZ[\\]^_","`abcdefghijklmno","pqrstuvwxyz{|}~\u0000","\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000","\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000£\u0000\u0000ƒ","\u0000\u0000\u0000\u0000\u0000\u0000ªº\u0000\u0000¬\u0000\u0000\u0000«»","░▒▓│┤╡╢╖╕╣║╗╝╜╛┐","└┴┬├─┼╞╟╚╔╩╦╠═╬╧","╨╤╥╙╘╒╓╫╪┘┌█▄▌▐▀","\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000∅∈\u0000","≡±≥≤⌠⌡÷≈°∙\u0000√ⁿ²■\u0000"]},
     {
       "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/end.png",
+      "file": "spellvox:custom/ui/boss_bar/background/end.png",
       "ascent": 8,
       "chars": [
         ""
@@ -11,7 +12,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/center_1.png",
+      "file": "spellvox:custom/ui/boss_bar/background/center_1.png",
       "ascent": 8,
       "chars": [
         ""
@@ -20,7 +21,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/center_2.png",
+      "file": "spellvox:custom/ui/boss_bar/background/center_2.png",
       "ascent": 8,
       "chars": [
         ""
@@ -29,7 +30,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/center_4.png",
+      "file": "spellvox:custom/ui/boss_bar/background/center_4.png",
       "ascent": 8,
       "chars": [
         ""
@@ -38,7 +39,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/center_8.png",
+      "file": "spellvox:custom/ui/boss_bar/background/center_8.png",
       "ascent": 8,
       "chars": [
         ""
@@ -47,7 +48,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/center_16.png",
+      "file": "spellvox:custom/ui/boss_bar/background/center_16.png",
       "ascent": 8,
       "chars": [
         ""
@@ -56,7 +57,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/center_32.png",
+      "file": "spellvox:custom/ui/boss_bar/background/center_32.png",
       "ascent": 8,
       "chars": [
         ""
@@ -65,7 +66,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/center_64.png",
+      "file": "spellvox:custom/ui/boss_bar/background/center_64.png",
       "ascent": 8,
       "chars": [
         ""
@@ -74,7 +75,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/center_128.png",
+      "file": "spellvox:custom/ui/boss_bar/background/center_128.png",
       "ascent": 8,
       "chars": [
         ""
