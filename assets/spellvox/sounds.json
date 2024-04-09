@@ -155,5 +155,17 @@
       "spellvox:server_support_2"
     ],
     "subtitle": "subtitles.server_support"
+  },
+  "custom.event_start": {
+    "sounds": [
+      "spellvox:event_start"
+    ],
+    "subtitle": "subtitles.event.start"
+  },
+  "custom.event_end": {
+    "sounds": [
+      "spellvox:event_end"
+    ],
+    "subtitle": "subtitles.event.end"
   }
 }
