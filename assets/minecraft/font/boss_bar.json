@@ -1,0 +1,85 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/ui/boss_bar/end.png",
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "height": 14
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/ui/boss_bar/center_1.png",
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "height": 14
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/ui/boss_bar/center_2.png",
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "height": 14
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/ui/boss_bar/center_4.png",
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "height": 14
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/ui/boss_bar/center_8.png",
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "height": 14
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/ui/boss_bar/center_16.png",
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "height": 14
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/ui/boss_bar/center_32.png",
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "height": 14
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/ui/boss_bar/center_64.png",
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "height": 14
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/ui/boss_bar/center_128.png",
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "height": 14
+    }
+  ]
+}
