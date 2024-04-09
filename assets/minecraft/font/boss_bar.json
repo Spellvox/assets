@@ -85,7 +85,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/ui/boss_bar/events/slime.png",
-      "ascent": 4,
+      "ascent": 6,
       "chars": [
         ""
       ],
@@ -94,7 +94,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/ui/boss_bar/events/score.png",
-      "ascent": 4,
+      "ascent": 6,
       "chars": [
         ""
       ],
