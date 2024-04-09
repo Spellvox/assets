@@ -172,3 +172,13 @@ TEXT_EFFECT(240, 240, 132) {
     override_text_color(rgb(255, 255, 255));
     remove_text_shadow();
 }
+
+TEXT_EFFECT(240, 240, 136) {
+    override_text_color(rgb(155, 155, 155));
+    remove_text_shadow();
+}
+
+TEXT_EFFECT(240, 240, 140) {
+    override_text_color(rgb(50, 50, 50));
+    remove_text_shadow();
+}
