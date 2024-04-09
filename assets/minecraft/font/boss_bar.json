@@ -81,6 +81,15 @@
         ""
       ],
       "height": 14
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/ui/boss_bar/events/slime.png",
+      "ascent": 4,
+      "chars": [
+        ""
+      ],
+      "height": 10
     }
   ]
 }
