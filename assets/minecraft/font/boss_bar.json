@@ -90,6 +90,15 @@
         ""
       ],
       "height": 10
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/ui/boss_bar/events/score.png",
+      "ascent": 4,
+      "chars": [
+        ""
+      ],
+      "height": 10
     }
   ]
 }
