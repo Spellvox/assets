@@ -156,13 +156,13 @@
     ],
     "subtitle": "subtitles.server_support"
   },
-  "custom.event_start": {
+  "custom.event.start": {
     "sounds": [
       "spellvox:event_start"
     ],
     "subtitle": "subtitles.event.start"
   },
-  "custom.event_end": {
+  "custom.event.end": {
     "sounds": [
       "spellvox:event_end"
     ],
