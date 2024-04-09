@@ -174,11 +174,16 @@ TEXT_EFFECT(240, 240, 132) {
 }
 
 TEXT_EFFECT(240, 240, 136) {
-    override_text_intensity(0.65);
+    override_text_intensity(0.75);
     remove_text_shadow();
 }
 
 TEXT_EFFECT(240, 240, 140) {
-	override_text_intensity(0.35);
+	override_text_intensity(0.5);
+    remove_text_shadow();
+}
+
+TEXT_EFFECT(240, 240, 144) {
+	override_text_intensity(0.25);
     remove_text_shadow();
 }
