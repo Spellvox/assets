@@ -100,15 +100,6 @@
       "type": "bitmap"
     },
     {
-      "type": "bitmap",
-      "file": "spellvox:custom/ui/boss_bar/splitter.png",
-      "ascent": 10,
-      "chars": [
-        ""
-      ],
-      "height": 14
-    },
-    {
       "file": "spellvox:custom/tags/chat/ui_chat_shader.png",
       "chars": [
         ""
