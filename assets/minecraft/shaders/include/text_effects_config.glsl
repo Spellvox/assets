@@ -192,3 +192,7 @@ TEXT_EFFECT(240, 240, 148) {
 	override_text_intensity(0.0, 0.1);
     remove_text_shadow();
 }
+
+TEXT_EFFECT(240, 240, 148) {
+	remove_text_entirely();
+}
