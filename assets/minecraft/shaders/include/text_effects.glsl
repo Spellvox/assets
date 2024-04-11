@@ -62,8 +62,12 @@ void override_text_color(vec3 color) {
     if(textData.isShadow) textData.color.rgb *= 0.25;
 }
 
+void override_text_intensity(float color, float intensity) {
+    override_text_color(vec4(color, color, color, intensity));
+}
+
 void override_text_intensity(float intensity) {
-    override_text_color(vec4(1.0, 1.0, 1.0, intensity));
+    override_text_intensity(1.0, intensity);
 }
 
 void override_shadow_color(vec4 color) {
