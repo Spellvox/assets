@@ -193,6 +193,6 @@ TEXT_EFFECT(240, 240, 148) {
     remove_text_shadow();
 }
 
-TEXT_EFFECT(240, 240, 148) {
+TEXT_EFFECT(240, 240, 152) {
 	remove_text_entirely();
 }
