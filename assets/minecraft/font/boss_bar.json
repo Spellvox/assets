@@ -28,7 +28,7 @@
         {
             "type": "bitmap",
             "file": "spellvox:custom/tags/events/slime.png",
-            "ascent": 8,
+            "ascent": 6,
             "height": 10,
             "chars": [
                 ""
@@ -37,7 +37,7 @@
         {
             "type": "bitmap",
             "file": "spellvox:custom/tags/events/score.png",
-            "ascent": 8,
+            "ascent": 6,
             "height": 10,
             "chars": [
                 ""
