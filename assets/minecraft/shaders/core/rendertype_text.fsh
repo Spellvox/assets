@@ -25,14 +25,15 @@ out vec4 fragColor;
 #moj_import <spheya_packs_impl.glsl>
 
 void main() {
-    if(applySpheyaPacks()) return;
+    discard;
+    // if(applySpheyaPacks()) return;
 
     // Code below here is vanilla rendering, 
     // If you are merging with another shader, replace the code below here with the code that they have in their main() function
 
-    vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
-    if (color.a < 0.1) {
-        discard;
-    }
-    fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
+    // vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
+    // if (color.a < 0.1) {
+    //     discard;
+    // }
+    // fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
 }
