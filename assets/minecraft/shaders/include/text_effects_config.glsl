@@ -169,21 +169,21 @@ TEXT_EFFECT(240, 240, 128) {
 }
 
 TEXT_EFFECT(240, 240, 132) {
-    override_text_intensity(1.0);
+    override_text_intensity(0.85);
     remove_text_shadow();
 }
 
 TEXT_EFFECT(240, 240, 136) {
-    override_text_intensity(0.75);
+    override_text_intensity(0.50);
     remove_text_shadow();
 }
 
 TEXT_EFFECT(240, 240, 140) {
-	override_text_intensity(0.5);
+	override_text_intensity(0.35);
     remove_text_shadow();
 }
 
 TEXT_EFFECT(240, 240, 144) {
-	override_text_intensity(0.25);
+	override_text_intensity(0.15);
     remove_text_shadow();
 }
