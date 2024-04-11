@@ -1,7 +1,6 @@
 {
     "providers": [
         {"type":"ttf","file":"spellvox:boss_bar.ttf","shift":[0,1],"size":14,"oversample":1},
-        {"type":"space","advances":{" ": 4,"\u200c": 0}},
         {
             "type": "bitmap",
             "file": "minecraft:font/ascii.png",
