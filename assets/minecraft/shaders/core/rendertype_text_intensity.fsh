@@ -30,7 +30,7 @@ void main() {
     // Code below here is vanilla rendering, 
     // If you are merging with another shader, replace the code below here with the code that they have in their main() function
 
-    vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
+    vec4 color = vec4(vec3(1.0), texture(Sampler0, texCoord0).r) * vertexColor;
     if (color.a < 0.1) {
         discard;
     }
