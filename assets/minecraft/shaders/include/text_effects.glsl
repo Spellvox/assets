@@ -63,7 +63,7 @@ void override_text_color(vec3 color) {
 }
 
 void override_text_intensity(float intensity) {
-    override_text_color(vec4(1.0, 1.0, 1.0, intensity));
+    override_text_color(vec4(0.0, 0.0, 0.0, intensity));
 }
 
 void override_shadow_color(vec4 color) {
