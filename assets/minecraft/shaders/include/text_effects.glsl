@@ -507,6 +507,7 @@ bool applySpheyaPack9() {
     vec4 textureSample = texture(Sampler0, textData.uv);
 
 #ifdef RENDERTYPE_TEXT_INTENSITY
+    // https://bugs.mojang.com/browse/MC-227034
     textureSample = vec4(vec3(1.0), texture(Sampler0, textData.uv).r);
 #endif
 
