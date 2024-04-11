@@ -88,10 +88,6 @@ void remove_text_shadow() {
     if(textData.isShadow) textData.color.a = 0.0;
 }
 
-void remove_text_entirely() {
-    textData.doTextureLookup = false;
-}
-
 void apply_vertical_shadow() {
     if(textData.isShadow) {
         textData.uv.x += 1.0 / 256.0;
