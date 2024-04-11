@@ -1,6 +1,6 @@
 #version 150
 #define FSH
-#define RENDERTYPE_TEXT
+#define RENDERTYPE_TEXT_INTENSITY
 
 #moj_import <fog.glsl>
 
@@ -30,6 +30,7 @@ void main() {
     // Code below here is vanilla rendering, 
     // If you are merging with another shader, replace the code below here with the code that they have in their main() function
 
+    // https://bugs.mojang.com/browse/MC-227034
     vec4 color = vec4(vec3(1.0), texture(Sampler0, texCoord0).r) * vertexColor;
     if (color.a < 0.1) {
         discard;

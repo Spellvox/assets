@@ -507,8 +507,7 @@ bool applySpheyaPack9() {
     vec4 textureSample = texture(Sampler0, textData.uv);
 
 #ifdef RENDERTYPE_TEXT_INTENSITY
-    textureSample = textureSample.rrrr;
-    textureSample = vec4(0.0);
+    textureSample = vec4(vec3(1.0), texture(Sampler0, textData.uv).r)
 #endif
 
     if(!textData.doTextureLookup) textureSample = vec4(0.0);
