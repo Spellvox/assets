@@ -111,20 +111,20 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/tags/events/slime.png",
-      "ascent": 6,
+      "ascent": 8,
       "chars": [
         ""
       ],
-      "height": 6
+      "height": 8
     },
     {
       "type": "bitmap",
       "file": "spellvox:custom/tags/events/score.png",
-      "ascent": 6,
+      "ascent": 8,
       "chars": [
         ""
       ],
-      "height": 6
+      "height": 8
     },
     {
       "file": "spellvox:custom/tags/npc/clickme.png",
