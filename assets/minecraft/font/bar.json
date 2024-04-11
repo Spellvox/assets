@@ -96,6 +96,15 @@
             "chars": [
                 ""
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom/tags/events/finish.png",
+            "ascent": 6,
+            "height": 10,
+            "chars": [
+                ""
+            ]
         }
     ]
 }
