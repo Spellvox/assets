@@ -1,6 +1,6 @@
 #version 150
 #define FSH
-#define RENDERTYPE_TEXT_INTENSITY
+#define RENDERTYPE_TEXT
 
 #moj_import <fog.glsl>
 
