@@ -39,7 +39,7 @@
 		},
 		"ground": {
 			"rotation": [90, 0, 0],
-			"translation": [0.75, 0.75, 24]
+			"translation": [0, 4, 0]
 		},
 		"gui": {
 			"rotation": [19, 0, 0],
