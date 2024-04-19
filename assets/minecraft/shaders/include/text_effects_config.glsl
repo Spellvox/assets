@@ -192,3 +192,8 @@ TEXT_EFFECT(240, 240, 148) {
 	override_text_intensity(0.0, 0.125);
     remove_text_shadow();
 }
+
+TEXT_EFFECT(240, 240, 152) {
+    apply_colorswap(136.0, 0.825, 0.55);
+}
+
