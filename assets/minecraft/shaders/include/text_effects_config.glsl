@@ -199,15 +199,15 @@ TEXT_EFFECT(240, 240, 152) {
 
 TEXT_EFFECT(240, 240, 156) {
     override_text_color(rgb(255, 143, 244));
-    apply_fade(rgb(142, 250, 250), 0.85);
+    apply_fade(rgb(142, 250, 250), 0.7);
 }
 
 TEXT_EFFECT(240, 240, 160) {
     override_text_color(rgb(247, 77, 199));
-    apply_fade(rgb(73, 167, 222), 0.85);
+    apply_fade(rgb(73, 167, 222), 0.7);
 }
 
 TEXT_EFFECT(240, 240, 164) {
     override_text_color(rgb(135, 70, 129));
-    apply_fade(rgb(60, 117, 117), 0.85);
+    apply_fade(rgb(60, 117, 117), 0.7);
 }
