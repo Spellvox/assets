@@ -198,6 +198,6 @@ TEXT_EFFECT(240, 240, 152) {
 }
 
 TEXT_EFFECT(240, 240, 156) {
-    override_text_color(rgb(255, 176, 247));
-    apply_fade(rgb(66, 203, 245));
+    override_text_color(rgb(222, 47, 205));
+    apply_fade(rgb(7, 167, 217));
 }
