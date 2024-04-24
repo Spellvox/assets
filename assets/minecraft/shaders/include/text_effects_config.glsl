@@ -199,6 +199,5 @@ TEXT_EFFECT(240, 240, 152) {
 
 TEXT_EFFECT(240, 240, 156) {
     override_text_color(rgb(255, 176, 247));
-    override_shadow_color(rgb(66, 203, 245));
-    apply_fade(rgb(99, 230, 230));
+    apply_fade(rgb(66, 203, 245));
 }
