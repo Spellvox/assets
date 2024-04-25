@@ -379,6 +379,15 @@
     },
     {
       "type": "bitmap",
+      "file": "spellvox:custom/menu/body/row/frames/2x2.png",
+      "ascent": 3,
+      "chars": [
+        ""
+      ],
+      "height": 55
+    },
+    {
+      "type": "bitmap",
       "file": "spellvox:custom/menu/body/row/slots/3x3_crosshair.png",
       "ascent": 3,
       "chars": [
