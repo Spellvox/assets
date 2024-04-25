@@ -384,7 +384,16 @@
       "chars": [
         ""
       ],
-      "height": 70
+      "height": 50
+    },
+    {
+      "type": "bitmap",
+      "file": "spellvox:custom/menu/body/buttons/btn_gang.png",
+      "ascent": -6,
+      "chars": [
+        ""
+      ],
+      "height": 50
     },
     {
       "type": "bitmap",
