@@ -380,7 +380,7 @@
     {
       "type": "bitmap",
       "file": "spellvox:custom/menu/body/row/frames/2x2_head.png",
-      "ascent": -8,
+      "ascent": -6,
       "chars": [
         ""
       ],
