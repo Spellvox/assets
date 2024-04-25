@@ -388,7 +388,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/menu/body/buttons/btn_gang.png",
+      "file": "spellvox:custom/menu/body/buttons/btn_discord.png",
       "ascent": -6,
       "chars": [
         ""
