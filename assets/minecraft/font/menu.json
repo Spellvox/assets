@@ -352,7 +352,7 @@
     },
     {
       "type": "bitmap",
-      "file": "spellvox:custom/menu/body/row/slots/2x1.png",
+      "file": "spellvox:custom/menu/body/row/slots/2x1_split.png",
       "ascent": 3,
       "chars": [
         ""
