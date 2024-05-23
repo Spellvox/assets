@@ -352,6 +352,15 @@
     },
     {
       "type": "bitmap",
+      "file": "spellvox:custom/menu/body/row/slots/2x1.png",
+      "ascent": 3,
+      "chars": [
+        ""
+      ],
+      "height": 64
+    },
+    {
+      "type": "bitmap",
       "file": "spellvox:custom/menu/body/row/slots/3x4.png",
       "ascent": 3,
       "chars": [
