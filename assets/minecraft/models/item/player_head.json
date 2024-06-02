@@ -36,6 +36,7 @@
     "overrides": [
         {"predicate": {"custom_model_data": 1},"model": "spellvox:custom/ui/player_head"},
         {"predicate": {"custom_model_data": 2},"model": "spellvox:custom/ui/player_head_big"},
-        {"predicate": {"custom_model_data": 3},"model": "spellvox:custom/ui/player_head_normal"}
+        {"predicate": {"custom_model_data": 3},"model": "spellvox:custom/ui/player_head_normal"},
+        {"predicate": {"custom_model_data": 4},"model": "spellvox:custom/ui/player_head_big_center"}
     ]
 }
