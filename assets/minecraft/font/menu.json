@@ -406,6 +406,15 @@
     },
     {
       "type": "bitmap",
+      "file": "spellvox:custom/menu/body/buttons/btn_info.png",
+      "ascent": -6,
+      "chars": [
+        ""
+      ],
+      "height": 70
+    },
+    {
+      "type": "bitmap",
       "file": "spellvox:custom/menu/body/row/slots/3x3_crosshair.png",
       "ascent": 3,
       "chars": [
