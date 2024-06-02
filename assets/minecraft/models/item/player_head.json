@@ -39,6 +39,6 @@
         {"predicate": {"custom_model_data": 3},"model": "spellvox:custom/ui/player_head_normal"},
         {"predicate": {"custom_model_data": 4},"model": "spellvox:custom/ui/player_head_big_center"},
         {"predicate": {"custom_model_data": 5},"model": "spellvox:custom/ui/player_head_big_left"},
-        {"predicate": {"custom_model_data": 6},"model": "spellvox:custom/ui/player_head_big_left"}
+        {"predicate": {"custom_model_data": 6},"model": "spellvox:custom/ui/player_head_big_right"}
     ]
 }
