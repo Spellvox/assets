@@ -1,161 +1,206 @@
 {
-  "providers": [
-    {
-      "file": "spellvox:custom/ui/gui/ui_logo.png",
-      "ascent": 20,
-      "type": "bitmap",
-      "chars": [
-        "怗怘怙"
-      ],
-      "height": 64
-    },
-    {
-      "file": "spellvox:custom/ui/gui/ui_exit_screen_disconnect.png",
-      "ascent": 7,
-      "type": "bitmap",
-      "chars": [
-        "ⶭ"
-      ],
-      "height": 74
-    },
-    {
-      "file": "spellvox:custom/ui/gui/ui_exit_screen_alt.png",
-      "ascent": 7,
-      "type": "bitmap",
-      "chars": [
-        "⋷"
-      ],
-      "height": 8
-    },
-    {
-      "file": "spellvox:custom/tags/chat/ui_streak.png",
-      "ascent": 7,
-      "type": "bitmap",
-      "chars": [
-        "鍑"
-      ],
-      "height": 8
-    },
-    {
-      "file": "spellvox:custom/tags/chat/ui_chat_hud.png",
-      "ascent": 7,
-      "type": "bitmap",
-      "chars": [
-        "膯"
-      ],
-      "height": 7
-    },
-    {
-      "file": "spellvox:custom/tags/chat/ui_chat_notify.png",
-      "ascent": 7,
-      "type": "bitmap",
-      "chars": [
-        "膰"
-      ],
-      "height": 7
-    },
-    {
-      "file": "spellvox:custom/tags/chat/ui_chat_error.png",
-      "ascent": 7,
-      "type": "bitmap",
-      "chars": [
-        "膱"
-      ],
-      "height": 7
-    },
-    {
-      "file": "spellvox:custom/tags/chat/ui_chat_arrow.png",
-      "ascent": 5,
-      "type": "bitmap",
-      "chars": [
-        "►"
-      ],
-      "height": 5
-    },
-    {
-      "file": "spellvox:custom/tags/chat/ui_mouse.png",
-      "ascent": 8,
-      "type": "bitmap",
-      "chars": [
-        ""
-      ],
-      "height": 9
-    },
-    {
-      "file": "spellvox:custom/tags/chat/ui_gg.png",
-      "ascent": 9,
-      "type": "bitmap",
-      "chars": [
-        ""
-      ],
-      "height": 10
-    },
-    {
-      "file": "spellvox:custom/ui/ui_overlay_fade.png",
-      "chars": [
-        ""
-      ],
-      "height": 1500,
-      "ascent": 250,
-      "type": "bitmap"
-    },
-    {
-      "file": "spellvox:custom/tags/chat/ui_chat_shader.png",
-      "chars": [
-        ""
-      ],
-      "height": 36,
-      "ascent": 16,
-      "type": "bitmap"
-    },
-    {
-      "file": "spellvox:custom/tags/npc/clickme.png",
-      "ascent": 7,
-      "type": "bitmap",
-      "chars": [
-        ""
-      ],
-      "height": 8
-    },
-    {
-      "file": "spellvox:custom/tags/npc/npc.png",
-      "ascent": 7,
-      "type": "bitmap",
-      "chars": [
-        ""
-      ],
-      "height": 7
-    },
-    {
-      "file": "spellvox:custom/tags/npc/npc_text.png",
-      "ascent": 6,
-      "type": "bitmap",
-      "chars": [
-        ""
-      ],
-      "height": 6
-    },
-    {
-      "file": "spellvox:custom/tags/cosmetic/blue_flame.png",
-      "ascent": 7,
-      "type": "bitmap",
-      "chars": [
-        ""
-      ],
-      "height": 7
-    },
-    {
-      "file": "item/experience_bottle.png",
-      "ascent": 8,
-      "type": "bitmap",
-      "chars": [
-        "턕"
-      ],
-      "height": 9
-    },
-    {"file":"spellvox:custom/tags/ranks/staff.png","ascent":7,"type":"bitmap","chars":["","","","","",""],"height":7},
-    {"file":"spellvox:custom/tags/ranks/rank_text.png","ascent":6,"type":"bitmap","chars":["","","","","","","",""],"height":6},
-    {"file":"spellvox:custom/tags/ranks/supporter.png","ascent":7,"type":"bitmap","chars":["","","","","","",""],"height":7},
-    {"file":"spellvox:custom/ui/spacers/black_pixel.png","chars":[""],"height":5,"ascent":-5000,"type":"bitmap"},{"ascent":250,"chars":[""],"file":"spellvox:custom/ui/spacers/black_box.png","height":1500,"type":"bitmap"},{"ascent":10,"chars":[""],"file":"spellvox:custom/ui/spacers/black_box.png","height":300,"type":"bitmap"},{"ascent":250,"chars":[""],"file":"spellvox:custom/ui/spacers/black_box_30.png","height":1200,"type":"bitmap"},{"ascent":250,"chars":[""],"file":"spellvox:custom/ui/spacers/black_box_70.png","height":1200,"type":"bitmap"},{"file":"spellvox:custom/ui/spacers/pixel_largespacer.png","chars":[""],"height":-3,"ascent":-32768,"type":"bitmap"},{"file":"spellvox:custom/ui/spacers/pixel_largespacer.png","chars":[""],"height":-4,"ascent":-32678,"type":"bitmap"},{"file":"spellvox:custom/ui/spacers/pixel_largespacer.png","chars":[""],"height":-5,"ascent":-32768,"type":"bitmap"},{"file":"spellvox:custom/ui/spacers/pixel_largespacer.png","chars":[""],"height":-6,"ascent":-32768,"type":"bitmap"},{"file":"spellvox:custom/ui/spacers/pixel_largespacer.png","chars":[""],"height":-7,"ascent":-32768,"type":"bitmap"},{"file":"spellvox:custom/ui/spacers/pixel_largespacer.png","chars":[""],"height":-8,"ascent":-32768,"type":"bitmap"},{"file":"spellvox:custom/ui/spacers/pixel_largespacer.png","chars":[""],"height":-9,"ascent":-32768,"type":"bitmap"},{"file":"spellvox:custom/ui/spacers/pixel_largespacer.png","chars":[""],"height":-10,"ascent":-32768,"type":"bitmap"},{"file":"spellvox:custom/ui/spacers/pixel_largespacer.png","chars":[""],"height":-18,"ascent":-32768,"type":"bitmap"},{"file":"spellvox:custom/ui/spacers/pixel_largespacer.png","chars":[""],"height":-34,"ascent":-32768,"type":"bitmap"},{"file":"spellvox:custom/ui/spacers/pixel_largespacer.png","chars":[""],"height":-66,"ascent":-32768,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-5,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-4,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-5,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-6,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-7,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-8,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-9,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-10,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-18,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-34,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-66,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-130,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-258,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-514,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-1026,"type":"bitmap"},{"ascent":-32770,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":-32770,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":0,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":1,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":2,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":3,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":4,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":5,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":6,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":7,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":15,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":31,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":63,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":127,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":255,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":511,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":1023,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_spacer.png","height":32767,"type":"bitmap"},{"ascent":-32768,"chars":["ퟣ"],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-3,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-4,"type":"bitmap"},{"ascent":-32768,"chars":["ퟨ"],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-5,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-6,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-7,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-8,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-9,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-10,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-18,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-34,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-66,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-130,"type":"bitmap"},{"ascent":-32768,"chars":["ퟡ"],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-163,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-258,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-514,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":-1026,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":0,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":1,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":2,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":3,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":4,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":5,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":6,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":7,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":15,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":31,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":63,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":127,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":255,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":511,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":1023,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"spellvox:custom/ui/spacers/pixel_nospacer.png","height":32767,"type":"bitmap"}
-  ]
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "": -1,
+                "": -2,
+                "": -4,
+                "": -8,
+                "": -16,
+                "": -32,
+                "": -64,
+                "": -128
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/prefixes/rank_text.png",
+            "ascent": 6,
+            "height": 6,
+            "chars": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/prefixes/rank_staff.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/prefixes/rank_supporter.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/exit_screen/logo.png",
+            "ascent": 20,
+            "height": 64,
+            "chars": [
+                "怗怘怙"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/exit_screen/disconnect.png",
+            "ascent": 7,
+            "height": 74,
+            "chars": [
+                "ⶭ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/exit_screen/return_to_game.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "⋷"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/chat/streak.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "鍑"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/server/symbol_hud.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "膯"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/server/symbol_notify.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "膰"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/server/symbol_error.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "膱"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/server/ascii_arrow.png",
+            "ascent": 6,
+            "height": 6,
+            "chars": [
+                "►"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/chat/mouse.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/chat/gg.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/black_box.png",
+            "ascent": 250,
+            "height": 1500,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/prefixes/npc.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/tags/prefixes/npc_text.png",
+            "ascent": 6,
+            "height": 6,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom_ui/logos/neo.png",
+            "ascent": 6,
+            "height": 133,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "spellvox:custom/items/cosmetics/tags/blue_flame.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/experience_bottle.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "턕"
+            ]
+        }
+    ]
 }

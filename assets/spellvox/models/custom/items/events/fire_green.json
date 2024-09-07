@@ -1,7 +1,0 @@
-{
-    "parent": "spellvox:custom/items/events/fire",
-    "textures": {
-        "1": "spellvox:custom/items/events/fire_green_front",
-        "2": "spellvox:custom/items/events/fire_green_middle"
-    }
-}

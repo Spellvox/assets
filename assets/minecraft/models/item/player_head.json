@@ -34,11 +34,11 @@
         }
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 1},"model": "spellvox:custom/ui/player_head"},
-        {"predicate": {"custom_model_data": 2},"model": "spellvox:custom/ui/player_head_big"},
-        {"predicate": {"custom_model_data": 3},"model": "spellvox:custom/ui/player_head_normal"},
-        {"predicate": {"custom_model_data": 4},"model": "spellvox:custom/ui/player_head_big_center"},
-        {"predicate": {"custom_model_data": 5},"model": "spellvox:custom/ui/player_head_big_left"},
-        {"predicate": {"custom_model_data": 6},"model": "spellvox:custom/ui/player_head_big_right"}
+        {"predicate": {"custom_model_data": 1},"model": "spellvox:custom/entities/player/player_head"},
+        {"predicate": {"custom_model_data": 2},"model": "spellvox:custom/entities/player/player_head_big"},
+        {"predicate": {"custom_model_data": 3},"model": "spellvox:custom/entities/player/player_head_normal"},
+        {"predicate": {"custom_model_data": 4},"model": "spellvox:custom/entities/player/player_head_big_center"},
+        {"predicate": {"custom_model_data": 5},"model": "spellvox:custom/entities/player/player_head_big_left"},
+        {"predicate": {"custom_model_data": 6},"model": "spellvox:custom/entities/player/player_head_big_right"}
     ]
 }
